@@ -1,0 +1,576 @@
+person_id,name,department,meal,diet,group_id
+P0468,Dev Pereira,Product,regular,non_vegetarian,
+P0135,Muhammad Wong,Marketing,regular,non_vegetarian,
+P0297,Grace Tan,Cloud Engineering,regular,non_vegetarian,
+P0108,Dev Raman,Customer Experience,regular,non_vegetarian,FINANCE_FOUR
+P0512,Xavier Wong,Cloud Engineering,regular,vegetarian,CULTURE_VEG
+P0333,Yasmin Reddy,Finance,regular,non_vegetarian,
+P0464,Daniel Tan,Operations,regular,non_vegetarian,
+P0374,Daniel Ng,Human Resources,regular,non_vegetarian,
+P0379,Dinesh Koh,Data & Analytics,regular,non_vegetarian,
+P0504,Rachel Roy,Cybersecurity,regular,vegetarian,VEG_FRIENDS
+P0474,Farid Lee,Cloud Engineering,regular,non_vegetarian,
+P0279,Benjamin Low,Operations,regular,non_vegetarian,
+P0105,Darren Khan,Marketing,regular,non_vegetarian,PLATFORM_PALS
+P0161,Fiona Patel,Cybersecurity,regular,non_vegetarian,
+P0318,Nicholas Raman,Procurement,regular,non_vegetarian,
+P0421,Wei Ling Tan,Customer Experience,regular,non_vegetarian,
+P0201,Elaine D Souza,Procurement,regular,non_vegetarian,
+P0046,Nadia Iyer,Product,regular,non_vegetarian,TEAM_DELTA
+P0034,Jonathan Taylor,Operations,regular,non_vegetarian,TEAM_CHARLIE
+P0466,Deepak Iyer,Cybersecurity,regular,non_vegetarian,
+P0350,Omar Goh,Marketing,regular,non_vegetarian,
+P0233,Rahul Hassan,Marketing,regular,non_vegetarian,
+P0540,Zhen Taylor,Human Resources,regular,vegetarian,
+P0126,Kavya Chua,Finance,regular,non_vegetarian,
+P0406,Nadia Fernandes,Cybersecurity,regular,non_vegetarian,
+P0560,Eileen Goh,Legal,halal,non_vegetarian,HALAL_EAST
+P0112,Ethan Teo,Cybersecurity,regular,non_vegetarian,PEOPLE_TEAM
+P0110,Eileen Pereira,Human Resources,regular,non_vegetarian,PEOPLE_TEAM
+P0213,Jia Hui Raman,Data & Analytics,regular,non_vegetarian,
+P0413,Rahul Singh,Legal,regular,non_vegetarian,
+P0567,Grace Ahmad,Finance,halal,non_vegetarian,HALAL_NORTH
+P0477,Grace Omar,Data & Analytics,regular,non_vegetarian,
+P0558,Dev Yusof,Risk & Compliance,halal,non_vegetarian,HALAL_EAST
+P0269,Yvonne Ng,Procurement,regular,non_vegetarian,
+P0147,Siti Ahmad,Technology,regular,non_vegetarian,
+P0328,Sophia Patel,Operations,regular,non_vegetarian,
+P0529,Naveen Ismail,Finance,regular,vegetarian,
+P0274,Alvin Koh,Customer Experience,regular,non_vegetarian,
+P0570,Ibrahim Koh,Human Resources,halal,non_vegetarian,HALAL_NORTH_SUPPORT
+P0198,Dev Teo,Legal,regular,non_vegetarian,
+P0444,Sharon Aziz,Cloud Engineering,regular,non_vegetarian,
+P0546,Ananya Chua,Marketing,regular,vegetarian,
+P0387,Grace Fernandes,Cybersecurity,regular,non_vegetarian,
+P0221,Lina Lee,Cybersecurity,regular,non_vegetarian,
+P0152,Xavier Ismail,Procurement,regular,non_vegetarian,
+P0174,Sharon Low,Product,regular,non_vegetarian,
+P0431,Fiona Lee,Finance,regular,non_vegetarian,
+P0462,Cheryl Ahmad,Legal,regular,non_vegetarian,
+P0520,Evan Mohamed,Technology,regular,vegetarian,HEALTH_VEG
+P0210,Ibrahim Khan,Cybersecurity,regular,non_vegetarian,
+P0509,Terence Iyer,Risk & Compliance,regular,vegetarian,DESIGN_VEG
+P0359,Yvonne Tan,Product,regular,non_vegetarian,
+P0066,Alicia Hassan,Data & Analytics,regular,non_vegetarian,PROJECT_ORBIT
+P0251,Fiona Roy,Cybersecurity,regular,non_vegetarian,
+P0134,Melissa Fernandes,Data & Analytics,regular,non_vegetarian,
+P0178,Wen Jie Lee,Human Resources,regular,non_vegetarian,
+P0325,Ravi D Souza,Human Resources,regular,non_vegetarian,
+P0433,Hannah Patel,Technology,regular,non_vegetarian,
+P0069,Daryl Low,Finance,regular,non_vegetarian,PROJECT_ORBIT
+P0498,Nicholas Goh,Risk & Compliance,regular,vegetarian,VEG_FRIENDS
+P0200,Eileen Yusof,Operations,regular,non_vegetarian,
+P0261,Pooja Nair,Product,regular,non_vegetarian,
+P0235,Ravi Lim,Finance,regular,non_vegetarian,
+P0179,Yvonne Kumar,Legal,regular,non_vegetarian,
+P0263,Ramesh D Souza,Marketing,regular,non_vegetarian,
+P0244,Yong Wei Taylor,Marketing,regular,non_vegetarian,
+P0524,Ivan Ahmad,Operations,regular,vegetarian,
+P0282,Cheryl Fernandes,Marketing,regular,non_vegetarian,
+P0547,Andre Raman,Risk & Compliance,regular,vegetarian,
+P0380,Eileen Raman,Marketing,regular,non_vegetarian,
+P0481,Irene Ahmad,Customer Experience,regular,non_vegetarian,
+P0331,Wei Ling Ng,Marketing,regular,non_vegetarian,
+P0542,Aisha Das,Cloud Engineering,regular,vegetarian,
+P0209,Hazel Ahmad,Legal,regular,non_vegetarian,
+P0132,Marcus Iyer,Operations,regular,non_vegetarian,
+P0047,Natalie Ismail,Data & Analytics,regular,non_vegetarian,TEAM_DELTA
+P0020,Eileen Chew,Finance,regular,non_vegetarian,TEAM_ALPHA
+P0338,Catherine Hassan,Cybersecurity,regular,non_vegetarian,
+P0401,Lina Aziz,Finance,regular,non_vegetarian,
+P0354,Sharon Chan,Technology,regular,non_vegetarian,
+P0130,Krishna Lim,Legal,regular,non_vegetarian,
+P0075,Janice Sharma,Sales,regular,non_vegetarian,PROJECT_NOVA
+P0045,Muhammad Koh,Sales,regular,non_vegetarian,TEAM_DELTA
+P0337,Bala Raman,Procurement,regular,non_vegetarian,
+P0149,Terence Tan,Legal,regular,non_vegetarian,
+P0531,Pooja Lim,Technology,regular,vegetarian,
+P0414,Rachel Patel,Cloud Engineering,regular,non_vegetarian,
+P0356,Uma Roy,Legal,regular,non_vegetarian,
+P0548,Arjun Hassan,Finance,regular,vegetarian,
+P0467,Derrick Ismail,Sales,regular,non_vegetarian,
+P0226,Nadia Ng,Technology,regular,non_vegetarian,
+P0384,Farid Low,Technology,regular,non_vegetarian,
+P0172,Qistina Pereira,Cybersecurity,regular,non_vegetarian,
+P0503,Rahul Chua,Legal,regular,vegetarian,VEG_FRIENDS
+P0010,Brandon D Souza,Customer Experience,regular,non_vegetarian,MIXED_10NV_1V
+P0072,Gaurav Fernandes,Operations,regular,non_vegetarian,PROJECT_NOVA
+P0231,Prakash Chua,Product,regular,non_vegetarian,
+P0138,Nicholas Yusof,Customer Experience,regular,non_vegetarian,
+P0377,Derrick Khan,Operations,regular,non_vegetarian,
+P0459,Benjamin Chan,Marketing,regular,non_vegetarian,
+P0036,Kavya Singh,Data & Analytics,regular,non_vegetarian,TEAM_CHARLIE
+P0533,Ramesh Nair,Procurement,regular,vegetarian,
+P0229,Nur Khan,Cloud Engineering,regular,non_vegetarian,
+P0030,Ibrahim Wong,Technology,regular,non_vegetarian,TEAM_BRAVO
+P0070,Evan Nair,Legal,regular,non_vegetarian,PROJECT_NOVA
+P0272,Aisha Khan,Product,regular,non_vegetarian,
+P0189,Benjamin Roy,Operations,regular,non_vegetarian,
+P0032,Jasmine Sharma,Legal,regular,non_vegetarian,TEAM_CHARLIE
+P0139,Nur Taylor,Technology,regular,non_vegetarian,
+P0455,Amelia Goh,Cybersecurity,regular,non_vegetarian,
+P0283,Clarissa Lee,Risk & Compliance,regular,non_vegetarian,
+P0275,Amelia Raman,Technology,regular,non_vegetarian,
+P0146,Sanjay Roy,Marketing,regular,non_vegetarian,
+P0364,Alvin Wong,Legal,regular,non_vegetarian,
+P0144,Rachel Chan,Product,regular,non_vegetarian,
+P0402,Marcus Tan,Customer Experience,regular,non_vegetarian,
+P0142,Priya Reddy,Cybersecurity,regular,non_vegetarian,
+P0067,Bala Pereira,Marketing,regular,non_vegetarian,PROJECT_ORBIT
+P0510,Vikram Ismail,Finance,regular,vegetarian,DESIGN_VEG
+P0572,Jasmine Ismail,Cloud Engineering,halal,non_vegetarian,HALAL_NORTH_SUPPORT
+P0324,Rachel Rahman,Technology,regular,non_vegetarian,
+P0183,Akash Goh,Data & Analytics,regular,non_vegetarian,
+P0060,Vikram Das,Technology,regular,non_vegetarian,TEAM_ECHO
+P0033,Jia Hui Yusof,Cloud Engineering,regular,non_vegetarian,TEAM_CHARLIE
+P0549,Benjamin Aziz,Customer Experience,regular,vegetarian,
+P0321,Prakash Lim,Product,regular,non_vegetarian,
+P0394,Jonathan Das,Legal,regular,non_vegetarian,
+P0097,Andre Goh,Marketing,regular,non_vegetarian,SECURITY_TEAM
+P0014,Daniel Omar,Cybersecurity,regular,non_vegetarian,TEAM_ALPHA
+P0446,Uma Low,Procurement,regular,non_vegetarian,
+P0022,Ethan Raman,Cloud Engineering,regular,non_vegetarian,TEAM_BRAVO
+P0298,Harish Low,Operations,regular,non_vegetarian,
+P0214,Jonathan Ismail,Marketing,regular,non_vegetarian,
+P0087,Vijay Tan,Risk & Compliance,regular,non_vegetarian,DATA_CREW
+P0273,Akash Chew,Finance,regular,non_vegetarian,
+P0028,Harish Rahman,Finance,regular,non_vegetarian,TEAM_BRAVO
+P0451,Aaron Kumar,Customer Experience,regular,non_vegetarian,
+P0415,Ravi Mohamed,Operations,regular,non_vegetarian,
+P0507,Siti Tan,Data & Analytics,regular,vegetarian,DESIGN_VEG
+P0290,Eileen Reddy,Sales,regular,non_vegetarian,
+P0285,Darren Sharma,Customer Experience,regular,non_vegetarian,
+P0369,Benjamin Lee,Sales,regular,non_vegetarian,
+P0436,Khalid Ng,Cybersecurity,regular,non_vegetarian,
+P0418,Sophia Roy,Sales,regular,non_vegetarian,
+P0411,Prakash D Souza,Risk & Compliance,regular,non_vegetarian,
+P0355,Tanvi Chua,Human Resources,regular,non_vegetarian,
+P0145,Ravi Chua,Data & Analytics,regular,non_vegetarian,
+P0037,Keith Reddy,Marketing,regular,non_vegetarian,TEAM_CHARLIE
+P0432,Gaurav Kumar,Customer Experience,regular,non_vegetarian,
+P0054,Rachel Lee,Procurement,regular,non_vegetarian,TEAM_ECHO
+P0471,Elaine Nair,Technology,regular,non_vegetarian,
+P0301,Irene Fernandes,Marketing,regular,non_vegetarian,
+P0388,Harish Lee,Sales,regular,non_vegetarian,
+P0168,Maya Chew,Legal,regular,non_vegetarian,
+P0434,Ivan Omar,Operations,regular,non_vegetarian,
+P0341,Fiona Low,Data & Analytics,regular,non_vegetarian,
+P0445,Tanvi Lim,Operations,regular,non_vegetarian,
+P0024,Farid Aziz,Procurement,regular,non_vegetarian,TEAM_BRAVO
+P0117,Grace Kumar,Risk & Compliance,regular,non_vegetarian,SALES_TRIO
+P0483,Jia Hui Chew,Operations,regular,non_vegetarian,
+P0232,Priya Raman,Data & Analytics,regular,non_vegetarian,
+P0264,Sharon Lee,Risk & Compliance,regular,non_vegetarian,
+P0170,Omar Raman,Operations,regular,non_vegetarian,
+P0505,Ravi Hassan,Sales,regular,vegetarian,DESIGN_VEG
+P0469,Dinesh Wong,Finance,regular,non_vegetarian,
+P0216,Kavya Lim,Finance,regular,non_vegetarian,
+P0528,Maya Raman,Risk & Compliance,regular,vegetarian,
+P0017,Derrick Das,Data & Analytics,regular,non_vegetarian,TEAM_ALPHA
+P0098,Arjun Singh,Technology,regular,non_vegetarian,SECURITY_TEAM
+P0044,Melissa Tan,Cybersecurity,regular,non_vegetarian,TEAM_DELTA
+P0565,Felix Chua,Sales,halal,non_vegetarian,HALAL_NORTH
+P0154,Yong Wei Wong,Marketing,regular,non_vegetarian,
+P0091,Aaron Fernandes,Operations,regular,non_vegetarian,OPS_SQUAD
+P0245,Zara Goh,Technology,regular,non_vegetarian,
+P0397,Keith Chew,Procurement,regular,non_vegetarian,
+P0517,Bala Goh,Product,regular,vegetarian,GREEN_TEAM
+P0234,Rachel Aziz,Risk & Compliance,regular,non_vegetarian,
+P0051,Prakash Nair,Legal,regular,non_vegetarian,TEAM_DELTA
+P0082,Qistina Chew,Cloud Engineering,regular,non_vegetarian,CLOUD_GUILD
+P0254,Ivan Tan,Finance,regular,non_vegetarian,
+P0120,Ibrahim Taylor,Cloud Engineering,regular,non_vegetarian,
+P0015,Darren Taylor,Sales,regular,non_vegetarian,TEAM_ALPHA
+P0319,Nur Ismail,Cybersecurity,regular,non_vegetarian,
+P0040,Krishna Chua,Customer Experience,regular,non_vegetarian,TEAM_CHARLIE
+P0441,Pooja Chua,Technology,regular,non_vegetarian,
+P0063,Yasmin Chew,Cybersecurity,regular,non_vegetarian,PROJECT_ORBIT
+P0023,Farah Hassan,Operations,regular,non_vegetarian,TEAM_BRAVO
+P0143,Rahul Mohamed,Sales,regular,non_vegetarian,
+P0218,Ken Nair,Cloud Engineering,regular,non_vegetarian,
+P0539,Yvonne Omar,Technology,regular,vegetarian,
+P0129,Kiran Aziz,Human Resources,regular,non_vegetarian,
+P0400,Krishna Hassan,Risk & Compliance,regular,non_vegetarian,
+P0430,Evan D Souza,Risk & Compliance,regular,non_vegetarian,
+P0465,Darren Koh,Procurement,regular,non_vegetarian,
+P0289,Dinesh Das,Cybersecurity,regular,non_vegetarian,
+P0500,Olivia Reddy,Customer Experience,regular,vegetarian,VEG_FRIENDS
+P0206,Gavin Chan,Customer Experience,regular,non_vegetarian,
+P0078,Maya Goh,Customer Experience,regular,non_vegetarian,CLOUD_GUILD
+P0199,Dinesh Sharma,Cloud Engineering,regular,non_vegetarian,
+P0074,Ivan Kumar,Cybersecurity,regular,non_vegetarian,PROJECT_NOVA
+P0340,Evan Lim,Product,regular,non_vegetarian,
+P0393,Jia Hui Goh,Human Resources,regular,non_vegetarian,
+P0493,Meera Lee,Cloud Engineering,regular,vegetarian,VEG_TABLE_A
+P0523,Hannah Roy,Cloud Engineering,regular,vegetarian,
+P0550,Brandon Lim,Technology,regular,vegetarian,
+P0243,Yasmin Yusof,Data & Analytics,regular,non_vegetarian,
+P0352,Qistina Reddy,Finance,regular,non_vegetarian,
+P0165,Janice Das,Marketing,regular,non_vegetarian,
+P0303,Jia Hui Teo,Finance,regular,non_vegetarian,
+P0370,Brandon Singh,Product,regular,non_vegetarian,
+P0513,Yasmin Teo,Operations,regular,vegetarian,CULTURE_VEG
+P0424,Yong Wei Ismail,Legal,regular,non_vegetarian,
+P0545,Amelia Chew,Cybersecurity,regular,vegetarian,
+P0312,Marcus Ng,Marketing,regular,non_vegetarian,
+P0215,Karthik Pereira,Risk & Compliance,regular,non_vegetarian,
+P0196,Deepak Fernandes,Technology,regular,non_vegetarian,
+P0552,Cheryl Iyer,Legal,regular,vegetarian,
+P0118,Harish Patel,Finance,regular,non_vegetarian,SALES_TRIO
+P0479,Hazel Ng,Risk & Compliance,regular,non_vegetarian,
+P0452,Aisha Sharma,Technology,regular,non_vegetarian,
+P0427,Bala Teo,Product,regular,non_vegetarian,
+P0378,Dev Chew,Product,regular,non_vegetarian,
+P0300,Ibrahim Ismail,Cybersecurity,regular,non_vegetarian,
+P0488,Ken Lim,Data & Analytics,regular,vegetarian,VEG_TABLE_A
+P0002,Aisha Koh,Legal,regular,non_vegetarian,MIXED_10NV_1V
+P0050,Olivia Teo,Human Resources,regular,non_vegetarian,TEAM_DELTA
+P0296,Gavin Aziz,Legal,regular,non_vegetarian,
+P0361,Aaron Iyer,Marketing,regular,non_vegetarian,
+P0042,Marcus Ahmad,Operations,regular,non_vegetarian,TEAM_DELTA
+P0561,Elaine Singh,Cloud Engineering,halal,non_vegetarian,HALAL_EAST
+P0344,Ivan Fernandes,Human Resources,regular,non_vegetarian,
+P0562,Ethan Reddy,Operations,halal,non_vegetarian,HALAL_EAST
+P0489,Kiran Low,Marketing,regular,vegetarian,VEG_TABLE_A
+P0544,Alvin Khan,Procurement,regular,vegetarian,
+P0048,Nicholas Pereira,Marketing,regular,non_vegetarian,TEAM_DELTA
+P0573,Jia Hui Pereira,Operations,halal,non_vegetarian,HALAL_EAST_SUPPORT
+P0057,Siti Omar,Risk & Compliance,regular,non_vegetarian,TEAM_ECHO
+P0551,Caroline Low,Human Resources,regular,vegetarian,
+P0086,Uma Aziz,Marketing,regular,non_vegetarian,DATA_CREW
+P0223,Meera Patel,Product,regular,non_vegetarian,
+P0569,Hazel Tan,Technology,halal,non_vegetarian,HALAL_NORTH_SUPPORT
+P0128,Ken Hassan,Technology,regular,non_vegetarian,
+P0163,Hannah Chan,Product,regular,non_vegetarian,
+P0021,Elaine Chua,Legal,regular,non_vegetarian,TEAM_ALPHA
+P0317,Natalie Koh,Operations,regular,non_vegetarian,
+P0202,Ethan Goh,Cybersecurity,regular,non_vegetarian,
+P0525,Janice Khan,Product,regular,vegetarian,
+P0140,Olivia Goh,Operations,regular,non_vegetarian,
+P0554,Daniel Fernandes,Sales,regular,vegetarian,
+P0422,Xavier Koh,Technology,regular,non_vegetarian,
+P0553,Clarissa Rahman,Cybersecurity,regular,vegetarian,
+P0125,Karthik Chew,Product,regular,non_vegetarian,
+P0006,Ananya Lim,Cybersecurity,regular,non_vegetarian,MIXED_10NV_1V
+P0164,Ivan Ng,Data & Analytics,regular,non_vegetarian,
+P0278,Arjun Lim,Cloud Engineering,regular,non_vegetarian,
+P0169,Naveen Koh,Cloud Engineering,regular,non_vegetarian,
+P0293,Farah Chua,Marketing,regular,non_vegetarian,
+P0391,Irene Omar,Marketing,regular,non_vegetarian,
+P0217,Keith Teo,Legal,regular,non_vegetarian,
+P0460,Brandon Chua,Risk & Compliance,regular,non_vegetarian,
+P0265,Tanvi Singh,Finance,regular,non_vegetarian,
+P0123,Jia Hui Reddy,Cybersecurity,regular,non_vegetarian,
+P0203,Farah Singh,Marketing,regular,non_vegetarian,
+P0292,Ethan Chew,Data & Analytics,regular,non_vegetarian,
+P0001,Aaron Tan,Human Resources,regular,non_vegetarian,MIXED_10NV_1V
+P0188,Arjun Chua,Technology,regular,non_vegetarian,
+P0408,Nicholas Teo,Product,regular,non_vegetarian,
+P0137,Natalie Sharma,Finance,regular,non_vegetarian,
+P0332,Xavier Das,Risk & Compliance,regular,non_vegetarian,
+P0256,Khalid Iyer,Technology,regular,non_vegetarian,
+P0371,Caroline Patel,Finance,regular,non_vegetarian,
+P0228,Nicholas Reddy,Legal,regular,non_vegetarian,
+P0177,Vijay Fernandes,Technology,regular,non_vegetarian,
+P0162,Gaurav Omar,Sales,regular,non_vegetarian,
+P0372,Cheryl Omar,Customer Experience,regular,non_vegetarian,
+P0220,Krishna D Souza,Procurement,regular,non_vegetarian,
+P0011,Caroline Lee,Technology,regular,vegetarian,MIXED_10NV_1V
+P0193,Clarissa Low,Product,regular,non_vegetarian,
+P0492,Marcus Fernandes,Legal,regular,vegetarian,VEG_TABLE_A
+P0239,Terence Fernandes,Procurement,regular,non_vegetarian,
+P0059,Terence Ng,Customer Experience,regular,non_vegetarian,TEAM_ECHO
+P0277,Andre Pereira,Legal,regular,non_vegetarian,
+P0124,Jonathan Khan,Sales,regular,non_vegetarian,
+P0314,Melissa Ahmad,Finance,regular,non_vegetarian,
+P0185,Amelia Reddy,Risk & Compliance,regular,non_vegetarian,
+P0025,Felix Lim,Cybersecurity,regular,non_vegetarian,TEAM_BRAVO
+P0156,Alicia Nair,Finance,regular,non_vegetarian,
+P0186,Ananya Mohamed,Finance,regular,non_vegetarian,
+P0571,Irene Iyer,Legal,halal,non_vegetarian,HALAL_NORTH_SUPPORT
+P0241,Wei Ling Kumar,Sales,regular,non_vegetarian,
+P0242,Xavier Sharma,Product,regular,non_vegetarian,
+P0456,Ananya Singh,Sales,regular,non_vegetarian,
+P0093,Akash Teo,Cybersecurity,regular,non_vegetarian,OPS_SQUAD
+P0038,Ken Mohamed,Risk & Compliance,regular,non_vegetarian,TEAM_CHARLIE
+P0237,Siti Iyer,Technology,regular,non_vegetarian,
+P0246,Alicia Singh,Human Resources,regular,non_vegetarian,
+P0326,Sanjay Lee,Legal,regular,non_vegetarian,
+P0315,Muhammad Khan,Legal,regular,non_vegetarian,
+P0090,Zhen Ismail,Technology,regular,non_vegetarian,OPS_SQUAD
+P0064,Yong Wei Koh,Sales,regular,non_vegetarian,PROJECT_ORBIT
+P0568,Harish Aziz,Customer Experience,halal,non_vegetarian,HALAL_NORTH
+P0475,Felix Singh,Operations,regular,non_vegetarian,
+P0357,Vijay Ahmad,Cybersecurity,regular,non_vegetarian,
+P0412,Priya Goh,Finance,regular,non_vegetarian,
+P0375,Darren Das,Legal,regular,non_vegetarian,
+P0367,Andre Yusof,Procurement,regular,non_vegetarian,
+P0339,Daryl Aziz,Sales,regular,non_vegetarian,
+P0514,Yong Wei Sharma,Procurement,regular,vegetarian,CULTURE_VEG
+P0133,Meera Rahman,Product,regular,non_vegetarian,
+P0148,Sophia Aziz,Human Resources,regular,non_vegetarian,
+P0323,Rahul Nair,Customer Experience,regular,non_vegetarian,
+P0349,Naveen Taylor,Cybersecurity,regular,non_vegetarian,
+P0385,Felix Nair,Operations,regular,non_vegetarian,
+P0252,Gaurav Ahmad,Marketing,regular,non_vegetarian,
+P0313,Meera Roy,Risk & Compliance,regular,non_vegetarian,
+P0485,Karthik Raman,Cybersecurity,regular,non_vegetarian,
+P0526,Khalid Tan,Data & Analytics,regular,vegetarian,
+P0439,Naveen Khan,Data & Analytics,regular,non_vegetarian,
+P0490,Krishna Nair,Technology,regular,vegetarian,VEG_TABLE_A
+P0311,Lina Chan,Data & Analytics,regular,non_vegetarian,
+P0486,Kavya Hassan,Sales,regular,non_vegetarian,
+P0007,Andre Teo,Marketing,regular,non_vegetarian,MIXED_10NV_1V
+P0284,Daniel Kumar,Finance,regular,non_vegetarian,
+P0288,Dev Goh,Procurement,regular,non_vegetarian,
+P0454,Alvin Taylor,Legal,regular,non_vegetarian,
+P0423,Yasmin Raman,Human Resources,regular,non_vegetarian,
+P0155,Zara Teo,Risk & Compliance,regular,non_vegetarian,
+P0563,Farah Mohamed,Procurement,halal,non_vegetarian,HALAL_NORTH
+P0543,Akash Reddy,Operations,regular,vegetarian,
+P0249,Daryl Chan,Operations,regular,non_vegetarian,
+P0405,Muhammad Ismail,Legal,regular,non_vegetarian,
+P0574,Jonathan Wong,Product,halal,non_vegetarian,HALAL_EAST_SUPPORT
+P0171,Pooja Hassan,Procurement,regular,non_vegetarian,
+P0085,Tanvi Hassan,Data & Analytics,regular,non_vegetarian,DATA_CREW
+P0538,Wen Jie Patel,Marketing,regular,vegetarian,
+P0463,Clarissa Aziz,Cloud Engineering,regular,non_vegetarian,
+P0187,Andre Chew,Customer Experience,regular,non_vegetarian,
+P0407,Natalie Wong,Sales,regular,non_vegetarian,
+P0035,Karthik Goh,Product,regular,non_vegetarian,TEAM_CHARLIE
+P0004,Alvin Ismail,Operations,regular,non_vegetarian,MIXED_10NV_1V
+P0416,Sanjay Chan,Procurement,regular,non_vegetarian,
+P0291,Elaine Mohamed,Product,regular,non_vegetarian,
+P0119,Hazel Omar,Legal,regular,non_vegetarian,SALES_TRIO
+P0396,Kavya Mohamed,Operations,regular,non_vegetarian,
+P0013,Clarissa Patel,Legal,regular,non_vegetarian,TEAM_ALPHA
+P0191,Caroline Aziz,Cybersecurity,regular,non_vegetarian,
+P0345,Janice Wong,Legal,regular,non_vegetarian,
+P0096,Ananya D Souza,Data & Analytics,regular,non_vegetarian,SECURITY_TEAM
+P0532,Qistina Teo,Operations,regular,vegetarian,
+P0316,Nadia Tan,Cloud Engineering,regular,non_vegetarian,
+P0482,Jasmine Khan,Technology,regular,non_vegetarian,
+P0343,Hannah Rahman,Technology,regular,non_vegetarian,
+P0358,Wen Jie Aziz,Sales,regular,non_vegetarian,
+P0420,Vikram Khan,Finance,regular,non_vegetarian,
+P0429,Daryl Rahman,Marketing,regular,non_vegetarian,
+P0327,Siti Kumar,Cloud Engineering,regular,non_vegetarian,
+P0222,Marcus Kumar,Sales,regular,non_vegetarian,
+P0058,Sophia Chan,Finance,regular,non_vegetarian,TEAM_ECHO
+P0470,Eileen Teo,Customer Experience,regular,non_vegetarian,
+P0308,Ken Singh,Cybersecurity,regular,non_vegetarian,
+P0497,Natalie Taylor,Marketing,regular,vegetarian,VEG_FRIENDS
+P0304,Jonathan Sharma,Customer Experience,regular,non_vegetarian,
+P0106,Deepak Tan,Risk & Compliance,regular,non_vegetarian,FINANCE_FOUR
+P0461,Caroline Roy,Finance,regular,non_vegetarian,
+P0419,Terence Ahmad,Product,regular,non_vegetarian,
+P0494,Melissa Kumar,Operations,regular,vegetarian,VEG_TABLE_A
+P0508,Sophia Low,Marketing,regular,vegetarian,DESIGN_VEG
+P0077,Lavanya Taylor,Finance,regular,non_vegetarian,PROJECT_NOVA
+P0008,Arjun Nair,Risk & Compliance,regular,non_vegetarian,MIXED_10NV_1V
+P0115,Felix D Souza,Data & Analytics,regular,non_vegetarian,MARKETING_TRIO
+P0448,Wen Jie Rahman,Marketing,regular,non_vegetarian,
+P0306,Kavya D Souza,Human Resources,regular,non_vegetarian,
+P0353,Ramesh Mohamed,Customer Experience,regular,non_vegetarian,
+P0167,Lavanya Khan,Finance,regular,non_vegetarian,
+P0053,Rahul D Souza,Operations,regular,non_vegetarian,TEAM_ECHO
+P0449,Yvonne Fernandes,Risk & Compliance,regular,non_vegetarian,
+P0114,Farid Rahman,Product,regular,non_vegetarian,MARKETING_TRIO
+P0262,Qistina Yusof,Data & Analytics,regular,non_vegetarian,
+P0294,Farid Roy,Technology,regular,non_vegetarian,
+P0027,Grace Iyer,Product,regular,non_vegetarian,TEAM_BRAVO
+P0335,Zara Chew,Technology,regular,non_vegetarian,
+P0491,Lina Rahman,Human Resources,regular,vegetarian,VEG_TABLE_A
+P0487,Keith Pereira,Product,regular,vegetarian,VEG_TABLE_A
+P0219,Kiran Rahman,Operations,regular,non_vegetarian,
+P0224,Melissa Omar,Finance,regular,non_vegetarian,
+P0225,Muhammad Taylor,Customer Experience,regular,non_vegetarian,
+P0276,Ananya Hassan,Human Resources,regular,non_vegetarian,
+P0107,Derrick Koh,Finance,regular,non_vegetarian,FINANCE_FOUR
+P0363,Akash Pereira,Finance,regular,non_vegetarian,
+P0305,Karthik Yusof,Technology,regular,non_vegetarian,
+P0019,Dinesh Khan,Risk & Compliance,regular,non_vegetarian,TEAM_ALPHA
+P0295,Felix Hassan,Human Resources,regular,non_vegetarian,
+P0287,Derrick Taylor,Operations,regular,non_vegetarian,
+P0557,Derrick Sharma,Marketing,halal,non_vegetarian,HALAL_EAST
+P0310,Krishna Mohamed,Product,regular,non_vegetarian,
+P0381,Elaine Hassan,Risk & Compliance,regular,non_vegetarian,
+P0348,Maya Yusof,Procurement,regular,non_vegetarian,
+P0195,Darren Ismail,Marketing,regular,non_vegetarian,
+P0307,Keith Goh,Legal,regular,non_vegetarian,
+P0157,Bala Yusof,Customer Experience,regular,non_vegetarian,
+P0309,Kiran Patel,Sales,regular,non_vegetarian,
+P0322,Priya Teo,Finance,regular,non_vegetarian,
+P0101,Caroline Chan,Cloud Engineering,regular,non_vegetarian,SECURITY_TEAM
+P0240,Vikram Wong,Cybersecurity,regular,non_vegetarian,
+P0566,Gavin Roy,Product,halal,non_vegetarian,HALAL_NORTH
+P0365,Amelia Teo,Cloud Engineering,regular,non_vegetarian,
+P0102,Cheryl Ng,Operations,regular,non_vegetarian,PLATFORM_PALS
+P0336,Alicia Chua,Operations,regular,non_vegetarian,
+P0480,Ibrahim Das,Finance,regular,non_vegetarian,
+P0267,Vijay Omar,Cloud Engineering,regular,non_vegetarian,
+P0049,Nur Wong,Technology,regular,non_vegetarian,TEAM_DELTA
+P0122,Jasmine Das,Procurement,regular,non_vegetarian,
+P0182,Aisha Taylor,Product,regular,non_vegetarian,
+P0089,Yvonne Iyer,Customer Experience,regular,non_vegetarian,DATA_CREW
+P0484,Jonathan Koh,Procurement,regular,non_vegetarian,
+P0390,Ibrahim Sharma,Data & Analytics,regular,non_vegetarian,
+P0208,Harish Roy,Human Resources,regular,non_vegetarian,
+P0012,Cheryl Kumar,Human Resources,regular,non_vegetarian,TEAM_ALPHA
+P0094,Alvin Sharma,Sales,regular,non_vegetarian,OPS_SQUAD
+P0043,Meera Aziz,Procurement,regular,non_vegetarian,TEAM_DELTA
+P0104,Daniel Ahmad,Cybersecurity,regular,non_vegetarian,PLATFORM_PALS
+P0435,Janice Taylor,Procurement,regular,non_vegetarian,
+P0522,Gaurav Ng,Legal,regular,vegetarian,HEALTH_VEG
+P0389,Hazel Kumar,Product,regular,non_vegetarian,
+P0131,Lina Low,Cloud Engineering,regular,non_vegetarian,
+P0253,Hannah Aziz,Risk & Compliance,regular,non_vegetarian,
+P0453,Akash Yusof,Human Resources,regular,non_vegetarian,
+P0395,Karthik Reddy,Cloud Engineering,regular,non_vegetarian,
+P0330,Vikram Taylor,Data & Analytics,regular,non_vegetarian,
+P0302,Jasmine Wong,Risk & Compliance,regular,non_vegetarian,
+P0141,Prakash Singh,Procurement,regular,non_vegetarian,
+P0478,Harish Chan,Marketing,regular,non_vegetarian,
+P0362,Aisha Ismail,Risk & Compliance,regular,non_vegetarian,
+P0386,Gavin Rahman,Procurement,regular,non_vegetarian,
+P0068,Catherine Lim,Risk & Compliance,regular,non_vegetarian,PROJECT_ORBIT
+P0194,Daniel Iyer,Data & Analytics,regular,non_vegetarian,
+P0280,Brandon Nair,Product,regular,non_vegetarian,
+P0535,Tanvi D Souza,Sales,regular,vegetarian,
+P0205,Felix Mohamed,Finance,regular,non_vegetarian,
+P0409,Nur Sharma,Data & Analytics,regular,non_vegetarian,
+P0026,Gavin Low,Sales,regular,non_vegetarian,TEAM_BRAVO
+P0521,Fiona Chan,Human Resources,regular,vegetarian,HEALTH_VEG
+P0160,Evan Singh,Legal,regular,non_vegetarian,
+P0121,Irene Ng,Operations,regular,non_vegetarian,
+P0071,Fiona Rahman,Cloud Engineering,regular,non_vegetarian,PROJECT_NOVA
+P0109,Dinesh Ismail,Technology,regular,non_vegetarian,FINANCE_FOUR
+P0268,Wen Jie Chan,Operations,regular,non_vegetarian,
+P0564,Farid Chan,Cybersecurity,halal,non_vegetarian,HALAL_NORTH
+P0113,Farah Nair,Sales,regular,non_vegetarian,PEOPLE_TEAM
+P0438,Maya Reddy,Product,regular,non_vegetarian,
+P0151,Wei Ling Iyer,Operations,regular,non_vegetarian,
+P0534,Sharon Rahman,Cybersecurity,regular,vegetarian,
+P0516,Alicia D Souza,Sales,regular,vegetarian,GREEN_TEAM
+P0447,Vijay Iyer,Cybersecurity,regular,non_vegetarian,
+P0502,Priya Chew,Human Resources,regular,vegetarian,VEG_FRIENDS
+P0495,Muhammad Sharma,Procurement,regular,vegetarian,VEG_TABLE_A
+P0373,Clarissa Chan,Technology,regular,non_vegetarian,
+P0211,Irene Tan,Sales,regular,non_vegetarian,
+P0541,Aaron Ng,Legal,regular,vegetarian,
+P0257,Lavanya Ismail,Human Resources,regular,non_vegetarian,
+P0457,Andre Reddy,Product,regular,non_vegetarian,
+P0175,Tanvi Nair,Finance,regular,non_vegetarian,
+P0499,Nur Das,Finance,regular,vegetarian,VEG_FRIENDS
+P0417,Siti Ng,Cybersecurity,regular,non_vegetarian,
+P0018,Dev Reddy,Marketing,regular,non_vegetarian,TEAM_ALPHA
+P0204,Farid Patel,Risk & Compliance,regular,non_vegetarian,
+P0009,Benjamin Rahman,Finance,regular,non_vegetarian,MIXED_10NV_1V
+P0518,Catherine Singh,Finance,regular,vegetarian,GREEN_TEAM
+P0003,Akash Raman,Cloud Engineering,regular,non_vegetarian,MIXED_10NV_1V
+P0472,Ethan Yusof,Human Resources,regular,non_vegetarian,
+P0346,Khalid Kumar,Cloud Engineering,regular,non_vegetarian,
+P0176,Uma Rahman,Customer Experience,regular,non_vegetarian,
+P0207,Grace Ng,Technology,regular,non_vegetarian,
+P0299,Hazel Iyer,Procurement,regular,non_vegetarian,
+P0527,Lavanya Koh,Marketing,regular,vegetarian,
+P0158,Catherine D Souza,Technology,regular,non_vegetarian,
+P0061,Wei Ling Ahmad,Human Resources,regular,non_vegetarian,TEAM_ECHO
+P0016,Deepak Ng,Product,regular,non_vegetarian,TEAM_ALPHA
+P0136,Nadia Kumar,Risk & Compliance,regular,non_vegetarian,
+P0180,Zhen Sharma,Cloud Engineering,regular,non_vegetarian,
+P0555,Darren Wong,Product,regular,vegetarian,
+P0190,Brandon Hassan,Procurement,regular,non_vegetarian,
+P0041,Lina Roy,Technology,regular,non_vegetarian,TEAM_CHARLIE
+P0334,Yong Wei Khan,Customer Experience,regular,non_vegetarian,
+P0383,Farah Lim,Customer Experience,regular,non_vegetarian,
+P0166,Khalid Ahmad,Risk & Compliance,regular,non_vegetarian,
+P0173,Ramesh Lim,Sales,regular,non_vegetarian,
+P0031,Irene Kumar,Human Resources,regular,non_vegetarian,TEAM_BRAVO
+P0392,Jasmine Taylor,Technology,regular,non_vegetarian,
+P0286,Deepak Omar,Technology,regular,non_vegetarian,
+P0005,Amelia Pereira,Procurement,regular,non_vegetarian,MIXED_10NV_1V
+P0450,Zhen Wong,Finance,regular,non_vegetarian,
+P0536,Uma Lee,Product,regular,vegetarian,
+P0403,Meera Low,Technology,regular,non_vegetarian,
+P0099,Benjamin Patel,Human Resources,regular,non_vegetarian,SECURITY_TEAM
+P0084,Sharon Roy,Product,regular,non_vegetarian,DATA_CREW
+P0376,Deepak Ahmad,Cloud Engineering,regular,non_vegetarian,
+P0055,Ravi Singh,Cybersecurity,regular,non_vegetarian,TEAM_ECHO
+P0095,Amelia Yusof,Product,regular,non_vegetarian,OPS_SQUAD
+P0116,Gavin Lee,Marketing,regular,non_vegetarian,MARKETING_TRIO
+P0227,Natalie Das,Human Resources,regular,non_vegetarian,
+P0260,Omar Teo,Sales,regular,non_vegetarian,
+P0410,Olivia Yusof,Marketing,regular,non_vegetarian,
+P0556,Deepak Kumar,Data & Analytics,halal,non_vegetarian,HALAL_EAST
+P0073,Hannah Lee,Procurement,regular,non_vegetarian,PROJECT_NOVA
+P0398,Ken Chua,Cybersecurity,regular,non_vegetarian,
+P0266,Uma Patel,Legal,regular,non_vegetarian,
+P0111,Elaine Lim,Legal,regular,non_vegetarian,PEOPLE_TEAM
+P0458,Arjun Mohamed,Data & Analytics,regular,non_vegetarian,
+P0496,Nadia Omar,Cybersecurity,regular,vegetarian,VEG_TABLE_A
+P0329,Terence Omar,Product,regular,non_vegetarian,
+P0236,Sanjay Low,Customer Experience,regular,non_vegetarian,
+P0476,Gavin Patel,Product,regular,non_vegetarian,
+P0065,Zara Raman,Product,regular,non_vegetarian,PROJECT_ORBIT
+P0351,Pooja Singh,Risk & Compliance,regular,non_vegetarian,
+P0079,Naveen Das,Technology,regular,non_vegetarian,CLOUD_GUILD
+P0342,Gaurav Iyer,Marketing,regular,non_vegetarian,
+P0404,Melissa Iyer,Human Resources,regular,non_vegetarian,
+P0076,Khalid Omar,Product,regular,non_vegetarian,PROJECT_NOVA
+P0347,Lavanya Sharma,Operations,regular,non_vegetarian,
+P0039,Kiran Chan,Finance,regular,non_vegetarian,TEAM_CHARLIE
+P0255,Janice Koh,Customer Experience,regular,non_vegetarian,
+P0103,Clarissa Roy,Procurement,regular,non_vegetarian,PLATFORM_PALS
+P0320,Olivia Pereira,Sales,regular,non_vegetarian,
+P0181,Aaron Omar,Operations,regular,non_vegetarian,
+P0428,Catherine Nair,Data & Analytics,regular,non_vegetarian,
+P0081,Pooja Mohamed,Legal,regular,non_vegetarian,CLOUD_GUILD
+P0530,Omar Pereira,Customer Experience,regular,vegetarian,
+P0511,Wei Ling Fernandes,Legal,regular,vegetarian,CULTURE_VEG
+P0426,Alicia Lim,Operations,regular,non_vegetarian,
+P0029,Hazel Fernandes,Customer Experience,regular,non_vegetarian,TEAM_BRAVO
+P0440,Omar Chew,Marketing,regular,non_vegetarian,
+P0258,Maya Pereira,Legal,regular,non_vegetarian,
+P0281,Caroline Rahman,Data & Analytics,regular,non_vegetarian,
+P0184,Alvin Das,Marketing,regular,non_vegetarian,
+P0537,Vijay Kumar,Data & Analytics,regular,vegetarian,
+P0083,Ramesh Chua,Operations,regular,non_vegetarian,CLOUD_GUILD
+P0473,Farah D Souza,Legal,regular,non_vegetarian,
+P0127,Keith Raman,Customer Experience,regular,non_vegetarian,
+P0250,Evan Chua,Procurement,regular,non_vegetarian,
+P0248,Catherine Mohamed,Cloud Engineering,regular,non_vegetarian,
+P0437,Lavanya Das,Sales,regular,non_vegetarian,
+P0519,Daryl Patel,Customer Experience,regular,vegetarian,GREEN_TEAM
+P0515,Zara Yusof,Cybersecurity,regular,vegetarian,CULTURE_VEG
+P0506,Sanjay Aziz,Product,regular,vegetarian,DESIGN_VEG
+P0575,Karthik Teo,Data & Analytics,halal,non_vegetarian,HALAL_EAST_SUPPORT
+P0062,Xavier Khan,Legal,regular,non_vegetarian,PROJECT_ORBIT
+P0088,Wen Jie Low,Finance,regular,non_vegetarian,DATA_CREW
+P0501,Prakash Mohamed,Technology,regular,vegetarian,VEG_FRIENDS
+P0360,Zhen Koh,Data & Analytics,regular,non_vegetarian,
+P0259,Naveen Wong,Cybersecurity,regular,non_vegetarian,
+P0368,Arjun D Souza,Cybersecurity,regular,non_vegetarian,
+P0092,Aisha Wong,Procurement,regular,non_vegetarian,OPS_SQUAD
+P0080,Omar Reddy,Human Resources,regular,non_vegetarian,CLOUD_GUILD
+P0559,Dinesh Taylor,Finance,halal,non_vegetarian,HALAL_EAST
+P0212,Jasmine Koh,Product,regular,non_vegetarian,
+P0153,Yasmin Pereira,Cybersecurity,regular,non_vegetarian,
+P0238,Sophia Rahman,Operations,regular,non_vegetarian,
+P0247,Bala Reddy,Legal,regular,non_vegetarian,
+P0192,Cheryl Tan,Sales,regular,non_vegetarian,
+P0442,Qistina Raman,Human Resources,regular,non_vegetarian,
+P0197,Derrick Wong,Human Resources,regular,non_vegetarian,
+P0443,Ramesh Hassan,Legal,regular,non_vegetarian,
+P0230,Olivia Chew,Operations,regular,non_vegetarian,
+P0100,Brandon Mohamed,Legal,regular,non_vegetarian,SECURITY_TEAM
+P0159,Daryl Lee,Human Resources,regular,non_vegetarian,
+P0399,Kiran Roy,Marketing,regular,non_vegetarian,
+P0425,Zara Pereira,Cloud Engineering,regular,non_vegetarian,
+P0056,Sanjay Patel,Marketing,regular,non_vegetarian,TEAM_ECHO
+P0382,Ethan Pereira,Finance,regular,non_vegetarian,
+P0271,Aaron Ahmad,Sales,regular,non_vegetarian,
+P0052,Priya Yusof,Cloud Engineering,regular,non_vegetarian,TEAM_ECHO
+P0150,Vikram Koh,Cloud Engineering,regular,non_vegetarian,
+P0366,Ananya Nair,Operations,regular,non_vegetarian,
+P0270,Zhen Das,Cybersecurity,regular,non_vegetarian,

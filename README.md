@@ -25,8 +25,8 @@ The dataset includes:
 
 ```bash
 python seating_assignment.py \
-  --input synthetic_attendees_575.csv \
-  --outdir test_575_output \
+  --input synthetic_attendees.csv \
+  --outdir test_output \
   --seed 5752026
 ```
 

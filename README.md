@@ -1,4 +1,4 @@
-# 575-Attendee Seating Assignment Test Package
+# Attendee Seating Assignment Test Package
 
 This package is a synthetic, realistic-style test dataset for the dinner seating program. All names are fictional.
 

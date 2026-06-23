@@ -1,0 +1,59 @@
+table_id,meal,table_configuration,assigned_people,capacity,empty_seats,non_vegetarian_count,vegetarian_count,requested_group_ids,status
+R-01,regular,10 non-vegetarian + 1 vegetarian,11,11,0,10,1,MIXED_10NV_1V,Assigned
+R-02,regular,Non-vegetarian (up to 10),10,10,0,10,0,TEAM_ECHO,Assigned
+R-03,regular,Non-vegetarian (up to 10),10,10,0,10,0,TEAM_DELTA,Assigned
+R-04,regular,Non-vegetarian (up to 10),10,10,0,10,0,TEAM_ALPHA,Assigned
+R-05,regular,Non-vegetarian (up to 10),10,10,0,10,0,TEAM_CHARLIE,Assigned
+R-06,regular,Non-vegetarian (up to 10),10,10,0,10,0,TEAM_BRAVO,Assigned
+R-07,regular,Non-vegetarian (up to 10),10,10,0,10,0,PROJECT_ORBIT,Assigned
+R-08,regular,Non-vegetarian (up to 10),10,10,0,10,0,PROJECT_NOVA,Assigned
+R-09,regular,Non-vegetarian (up to 10),10,10,0,10,0,CLOUD_GUILD; PLATFORM_PALS,Assigned
+R-10,regular,Non-vegetarian (up to 10),10,10,0,10,0,OPS_SQUAD; PEOPLE_TEAM,Assigned
+R-11,regular,Non-vegetarian (up to 10),10,10,0,10,0,DATA_CREW; FINANCE_FOUR,Assigned
+R-12,regular,Non-vegetarian (up to 10),10,10,0,10,0,MARKETING_TRIO; SECURITY_TEAM,Assigned
+R-13,regular,Non-vegetarian (up to 10),10,10,0,10,0,SALES_TRIO,Assigned
+R-14,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-15,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-16,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-17,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-18,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-19,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-20,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-21,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-22,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-23,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-24,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-25,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-26,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-27,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-28,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-29,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-30,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-31,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-32,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-33,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-34,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-35,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-36,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-37,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-38,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-39,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-40,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-41,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-42,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-43,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-44,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-45,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-46,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-47,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-48,regular,Non-vegetarian (up to 10),10,10,0,10,0,,Assigned
+R-49,regular,Non-vegetarian (up to 10),5,10,5,5,0,,Assigned
+R-50,regular,Vegetarian-only (up to 10),10,10,0,0,10,VEG_TABLE_A,Assigned
+R-51,regular,Vegetarian-only (up to 10),10,10,0,0,10,VEG_FRIENDS,Assigned
+R-52,regular,Vegetarian-only (up to 10),10,10,0,0,10,DESIGN_VEG; GREEN_TEAM,Assigned
+R-53,regular,Vegetarian-only (up to 10),10,10,0,0,10,CULTURE_VEG; HEALTH_VEG,Assigned
+R-54,regular,Vegetarian-only (up to 10),10,10,0,0,10,,Assigned
+R-55,regular,Vegetarian-only (up to 10),10,10,0,0,10,,Assigned
+R-56,regular,Vegetarian-only (up to 10),9,10,1,0,9,,Assigned
+H-01,halal,Halal non-vegetarian (up to 10),10,10,0,10,0,HALAL_EAST; HALAL_EAST_SUPPORT,Assigned
+H-02,halal,Halal non-vegetarian (up to 10),10,10,0,10,0,HALAL_NORTH; HALAL_NORTH_SUPPORT,Assigned

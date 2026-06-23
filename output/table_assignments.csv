@@ -1,0 +1,576 @@
+table_id,meal,table_configuration,seat_number,person_id,name,diet,group_id,assignment_basis
+R-01,regular,10 non-vegetarian + 1 vegetarian,1,P0010,Brandon D Souza,non_vegetarian,MIXED_10NV_1V,requested_group
+R-01,regular,10 non-vegetarian + 1 vegetarian,2,P0002,Aisha Koh,non_vegetarian,MIXED_10NV_1V,requested_group
+R-01,regular,10 non-vegetarian + 1 vegetarian,3,P0006,Ananya Lim,non_vegetarian,MIXED_10NV_1V,requested_group
+R-01,regular,10 non-vegetarian + 1 vegetarian,4,P0001,Aaron Tan,non_vegetarian,MIXED_10NV_1V,requested_group
+R-01,regular,10 non-vegetarian + 1 vegetarian,5,P0011,Caroline Lee,vegetarian,MIXED_10NV_1V,requested_group
+R-01,regular,10 non-vegetarian + 1 vegetarian,6,P0007,Andre Teo,non_vegetarian,MIXED_10NV_1V,requested_group
+R-01,regular,10 non-vegetarian + 1 vegetarian,7,P0004,Alvin Ismail,non_vegetarian,MIXED_10NV_1V,requested_group
+R-01,regular,10 non-vegetarian + 1 vegetarian,8,P0008,Arjun Nair,non_vegetarian,MIXED_10NV_1V,requested_group
+R-01,regular,10 non-vegetarian + 1 vegetarian,9,P0009,Benjamin Rahman,non_vegetarian,MIXED_10NV_1V,requested_group
+R-01,regular,10 non-vegetarian + 1 vegetarian,10,P0003,Akash Raman,non_vegetarian,MIXED_10NV_1V,requested_group
+R-01,regular,10 non-vegetarian + 1 vegetarian,11,P0005,Amelia Pereira,non_vegetarian,MIXED_10NV_1V,requested_group
+R-02,regular,Non-vegetarian (up to 10),1,P0060,Vikram Das,non_vegetarian,TEAM_ECHO,requested_group
+R-02,regular,Non-vegetarian (up to 10),2,P0054,Rachel Lee,non_vegetarian,TEAM_ECHO,requested_group
+R-02,regular,Non-vegetarian (up to 10),3,P0057,Siti Omar,non_vegetarian,TEAM_ECHO,requested_group
+R-02,regular,Non-vegetarian (up to 10),4,P0059,Terence Ng,non_vegetarian,TEAM_ECHO,requested_group
+R-02,regular,Non-vegetarian (up to 10),5,P0058,Sophia Chan,non_vegetarian,TEAM_ECHO,requested_group
+R-02,regular,Non-vegetarian (up to 10),6,P0053,Rahul D Souza,non_vegetarian,TEAM_ECHO,requested_group
+R-02,regular,Non-vegetarian (up to 10),7,P0061,Wei Ling Ahmad,non_vegetarian,TEAM_ECHO,requested_group
+R-02,regular,Non-vegetarian (up to 10),8,P0055,Ravi Singh,non_vegetarian,TEAM_ECHO,requested_group
+R-02,regular,Non-vegetarian (up to 10),9,P0056,Sanjay Patel,non_vegetarian,TEAM_ECHO,requested_group
+R-02,regular,Non-vegetarian (up to 10),10,P0052,Priya Yusof,non_vegetarian,TEAM_ECHO,requested_group
+R-03,regular,Non-vegetarian (up to 10),1,P0046,Nadia Iyer,non_vegetarian,TEAM_DELTA,requested_group
+R-03,regular,Non-vegetarian (up to 10),2,P0047,Natalie Ismail,non_vegetarian,TEAM_DELTA,requested_group
+R-03,regular,Non-vegetarian (up to 10),3,P0045,Muhammad Koh,non_vegetarian,TEAM_DELTA,requested_group
+R-03,regular,Non-vegetarian (up to 10),4,P0044,Melissa Tan,non_vegetarian,TEAM_DELTA,requested_group
+R-03,regular,Non-vegetarian (up to 10),5,P0051,Prakash Nair,non_vegetarian,TEAM_DELTA,requested_group
+R-03,regular,Non-vegetarian (up to 10),6,P0050,Olivia Teo,non_vegetarian,TEAM_DELTA,requested_group
+R-03,regular,Non-vegetarian (up to 10),7,P0042,Marcus Ahmad,non_vegetarian,TEAM_DELTA,requested_group
+R-03,regular,Non-vegetarian (up to 10),8,P0048,Nicholas Pereira,non_vegetarian,TEAM_DELTA,requested_group
+R-03,regular,Non-vegetarian (up to 10),9,P0049,Nur Wong,non_vegetarian,TEAM_DELTA,requested_group
+R-03,regular,Non-vegetarian (up to 10),10,P0043,Meera Aziz,non_vegetarian,TEAM_DELTA,requested_group
+R-04,regular,Non-vegetarian (up to 10),1,P0020,Eileen Chew,non_vegetarian,TEAM_ALPHA,requested_group
+R-04,regular,Non-vegetarian (up to 10),2,P0014,Daniel Omar,non_vegetarian,TEAM_ALPHA,requested_group
+R-04,regular,Non-vegetarian (up to 10),3,P0017,Derrick Das,non_vegetarian,TEAM_ALPHA,requested_group
+R-04,regular,Non-vegetarian (up to 10),4,P0015,Darren Taylor,non_vegetarian,TEAM_ALPHA,requested_group
+R-04,regular,Non-vegetarian (up to 10),5,P0021,Elaine Chua,non_vegetarian,TEAM_ALPHA,requested_group
+R-04,regular,Non-vegetarian (up to 10),6,P0013,Clarissa Patel,non_vegetarian,TEAM_ALPHA,requested_group
+R-04,regular,Non-vegetarian (up to 10),7,P0019,Dinesh Khan,non_vegetarian,TEAM_ALPHA,requested_group
+R-04,regular,Non-vegetarian (up to 10),8,P0012,Cheryl Kumar,non_vegetarian,TEAM_ALPHA,requested_group
+R-04,regular,Non-vegetarian (up to 10),9,P0018,Dev Reddy,non_vegetarian,TEAM_ALPHA,requested_group
+R-04,regular,Non-vegetarian (up to 10),10,P0016,Deepak Ng,non_vegetarian,TEAM_ALPHA,requested_group
+R-05,regular,Non-vegetarian (up to 10),1,P0034,Jonathan Taylor,non_vegetarian,TEAM_CHARLIE,requested_group
+R-05,regular,Non-vegetarian (up to 10),2,P0036,Kavya Singh,non_vegetarian,TEAM_CHARLIE,requested_group
+R-05,regular,Non-vegetarian (up to 10),3,P0032,Jasmine Sharma,non_vegetarian,TEAM_CHARLIE,requested_group
+R-05,regular,Non-vegetarian (up to 10),4,P0033,Jia Hui Yusof,non_vegetarian,TEAM_CHARLIE,requested_group
+R-05,regular,Non-vegetarian (up to 10),5,P0037,Keith Reddy,non_vegetarian,TEAM_CHARLIE,requested_group
+R-05,regular,Non-vegetarian (up to 10),6,P0040,Krishna Chua,non_vegetarian,TEAM_CHARLIE,requested_group
+R-05,regular,Non-vegetarian (up to 10),7,P0038,Ken Mohamed,non_vegetarian,TEAM_CHARLIE,requested_group
+R-05,regular,Non-vegetarian (up to 10),8,P0035,Karthik Goh,non_vegetarian,TEAM_CHARLIE,requested_group
+R-05,regular,Non-vegetarian (up to 10),9,P0041,Lina Roy,non_vegetarian,TEAM_CHARLIE,requested_group
+R-05,regular,Non-vegetarian (up to 10),10,P0039,Kiran Chan,non_vegetarian,TEAM_CHARLIE,requested_group
+R-06,regular,Non-vegetarian (up to 10),1,P0030,Ibrahim Wong,non_vegetarian,TEAM_BRAVO,requested_group
+R-06,regular,Non-vegetarian (up to 10),2,P0022,Ethan Raman,non_vegetarian,TEAM_BRAVO,requested_group
+R-06,regular,Non-vegetarian (up to 10),3,P0028,Harish Rahman,non_vegetarian,TEAM_BRAVO,requested_group
+R-06,regular,Non-vegetarian (up to 10),4,P0024,Farid Aziz,non_vegetarian,TEAM_BRAVO,requested_group
+R-06,regular,Non-vegetarian (up to 10),5,P0023,Farah Hassan,non_vegetarian,TEAM_BRAVO,requested_group
+R-06,regular,Non-vegetarian (up to 10),6,P0025,Felix Lim,non_vegetarian,TEAM_BRAVO,requested_group
+R-06,regular,Non-vegetarian (up to 10),7,P0027,Grace Iyer,non_vegetarian,TEAM_BRAVO,requested_group
+R-06,regular,Non-vegetarian (up to 10),8,P0026,Gavin Low,non_vegetarian,TEAM_BRAVO,requested_group
+R-06,regular,Non-vegetarian (up to 10),9,P0031,Irene Kumar,non_vegetarian,TEAM_BRAVO,requested_group
+R-06,regular,Non-vegetarian (up to 10),10,P0029,Hazel Fernandes,non_vegetarian,TEAM_BRAVO,requested_group
+R-07,regular,Non-vegetarian (up to 10),1,P0066,Alicia Hassan,non_vegetarian,PROJECT_ORBIT,requested_group
+R-07,regular,Non-vegetarian (up to 10),2,P0069,Daryl Low,non_vegetarian,PROJECT_ORBIT,requested_group
+R-07,regular,Non-vegetarian (up to 10),3,P0067,Bala Pereira,non_vegetarian,PROJECT_ORBIT,requested_group
+R-07,regular,Non-vegetarian (up to 10),4,P0063,Yasmin Chew,non_vegetarian,PROJECT_ORBIT,requested_group
+R-07,regular,Non-vegetarian (up to 10),5,P0064,Yong Wei Koh,non_vegetarian,PROJECT_ORBIT,requested_group
+R-07,regular,Non-vegetarian (up to 10),6,P0068,Catherine Lim,non_vegetarian,PROJECT_ORBIT,requested_group
+R-07,regular,Non-vegetarian (up to 10),7,P0065,Zara Raman,non_vegetarian,PROJECT_ORBIT,requested_group
+R-07,regular,Non-vegetarian (up to 10),8,P0062,Xavier Khan,non_vegetarian,PROJECT_ORBIT,requested_group
+R-07,regular,Non-vegetarian (up to 10),9,P0345,Janice Wong,non_vegetarian,,dietary_random
+R-07,regular,Non-vegetarian (up to 10),10,P0364,Alvin Wong,non_vegetarian,,dietary_random
+R-08,regular,Non-vegetarian (up to 10),1,P0075,Janice Sharma,non_vegetarian,PROJECT_NOVA,requested_group
+R-08,regular,Non-vegetarian (up to 10),2,P0072,Gaurav Fernandes,non_vegetarian,PROJECT_NOVA,requested_group
+R-08,regular,Non-vegetarian (up to 10),3,P0070,Evan Nair,non_vegetarian,PROJECT_NOVA,requested_group
+R-08,regular,Non-vegetarian (up to 10),4,P0074,Ivan Kumar,non_vegetarian,PROJECT_NOVA,requested_group
+R-08,regular,Non-vegetarian (up to 10),5,P0077,Lavanya Taylor,non_vegetarian,PROJECT_NOVA,requested_group
+R-08,regular,Non-vegetarian (up to 10),6,P0071,Fiona Rahman,non_vegetarian,PROJECT_NOVA,requested_group
+R-08,regular,Non-vegetarian (up to 10),7,P0073,Hannah Lee,non_vegetarian,PROJECT_NOVA,requested_group
+R-08,regular,Non-vegetarian (up to 10),8,P0076,Khalid Omar,non_vegetarian,PROJECT_NOVA,requested_group
+R-08,regular,Non-vegetarian (up to 10),9,P0217,Keith Teo,non_vegetarian,,dietary_random
+R-08,regular,Non-vegetarian (up to 10),10,P0438,Maya Reddy,non_vegetarian,,dietary_random
+R-09,regular,Non-vegetarian (up to 10),1,P0082,Qistina Chew,non_vegetarian,CLOUD_GUILD,requested_group
+R-09,regular,Non-vegetarian (up to 10),2,P0078,Maya Goh,non_vegetarian,CLOUD_GUILD,requested_group
+R-09,regular,Non-vegetarian (up to 10),3,P0079,Naveen Das,non_vegetarian,CLOUD_GUILD,requested_group
+R-09,regular,Non-vegetarian (up to 10),4,P0081,Pooja Mohamed,non_vegetarian,CLOUD_GUILD,requested_group
+R-09,regular,Non-vegetarian (up to 10),5,P0083,Ramesh Chua,non_vegetarian,CLOUD_GUILD,requested_group
+R-09,regular,Non-vegetarian (up to 10),6,P0080,Omar Reddy,non_vegetarian,CLOUD_GUILD,requested_group
+R-09,regular,Non-vegetarian (up to 10),7,P0105,Darren Khan,non_vegetarian,PLATFORM_PALS,requested_group
+R-09,regular,Non-vegetarian (up to 10),8,P0102,Cheryl Ng,non_vegetarian,PLATFORM_PALS,requested_group
+R-09,regular,Non-vegetarian (up to 10),9,P0104,Daniel Ahmad,non_vegetarian,PLATFORM_PALS,requested_group
+R-09,regular,Non-vegetarian (up to 10),10,P0103,Clarissa Roy,non_vegetarian,PLATFORM_PALS,requested_group
+R-10,regular,Non-vegetarian (up to 10),1,P0091,Aaron Fernandes,non_vegetarian,OPS_SQUAD,requested_group
+R-10,regular,Non-vegetarian (up to 10),2,P0093,Akash Teo,non_vegetarian,OPS_SQUAD,requested_group
+R-10,regular,Non-vegetarian (up to 10),3,P0090,Zhen Ismail,non_vegetarian,OPS_SQUAD,requested_group
+R-10,regular,Non-vegetarian (up to 10),4,P0094,Alvin Sharma,non_vegetarian,OPS_SQUAD,requested_group
+R-10,regular,Non-vegetarian (up to 10),5,P0095,Amelia Yusof,non_vegetarian,OPS_SQUAD,requested_group
+R-10,regular,Non-vegetarian (up to 10),6,P0092,Aisha Wong,non_vegetarian,OPS_SQUAD,requested_group
+R-10,regular,Non-vegetarian (up to 10),7,P0112,Ethan Teo,non_vegetarian,PEOPLE_TEAM,requested_group
+R-10,regular,Non-vegetarian (up to 10),8,P0110,Eileen Pereira,non_vegetarian,PEOPLE_TEAM,requested_group
+R-10,regular,Non-vegetarian (up to 10),9,P0113,Farah Nair,non_vegetarian,PEOPLE_TEAM,requested_group
+R-10,regular,Non-vegetarian (up to 10),10,P0111,Elaine Lim,non_vegetarian,PEOPLE_TEAM,requested_group
+R-11,regular,Non-vegetarian (up to 10),1,P0087,Vijay Tan,non_vegetarian,DATA_CREW,requested_group
+R-11,regular,Non-vegetarian (up to 10),2,P0086,Uma Aziz,non_vegetarian,DATA_CREW,requested_group
+R-11,regular,Non-vegetarian (up to 10),3,P0085,Tanvi Hassan,non_vegetarian,DATA_CREW,requested_group
+R-11,regular,Non-vegetarian (up to 10),4,P0089,Yvonne Iyer,non_vegetarian,DATA_CREW,requested_group
+R-11,regular,Non-vegetarian (up to 10),5,P0084,Sharon Roy,non_vegetarian,DATA_CREW,requested_group
+R-11,regular,Non-vegetarian (up to 10),6,P0088,Wen Jie Low,non_vegetarian,DATA_CREW,requested_group
+R-11,regular,Non-vegetarian (up to 10),7,P0108,Dev Raman,non_vegetarian,FINANCE_FOUR,requested_group
+R-11,regular,Non-vegetarian (up to 10),8,P0106,Deepak Tan,non_vegetarian,FINANCE_FOUR,requested_group
+R-11,regular,Non-vegetarian (up to 10),9,P0107,Derrick Koh,non_vegetarian,FINANCE_FOUR,requested_group
+R-11,regular,Non-vegetarian (up to 10),10,P0109,Dinesh Ismail,non_vegetarian,FINANCE_FOUR,requested_group
+R-12,regular,Non-vegetarian (up to 10),1,P0097,Andre Goh,non_vegetarian,SECURITY_TEAM,requested_group
+R-12,regular,Non-vegetarian (up to 10),2,P0098,Arjun Singh,non_vegetarian,SECURITY_TEAM,requested_group
+R-12,regular,Non-vegetarian (up to 10),3,P0096,Ananya D Souza,non_vegetarian,SECURITY_TEAM,requested_group
+R-12,regular,Non-vegetarian (up to 10),4,P0101,Caroline Chan,non_vegetarian,SECURITY_TEAM,requested_group
+R-12,regular,Non-vegetarian (up to 10),5,P0099,Benjamin Patel,non_vegetarian,SECURITY_TEAM,requested_group
+R-12,regular,Non-vegetarian (up to 10),6,P0100,Brandon Mohamed,non_vegetarian,SECURITY_TEAM,requested_group
+R-12,regular,Non-vegetarian (up to 10),7,P0115,Felix D Souza,non_vegetarian,MARKETING_TRIO,requested_group
+R-12,regular,Non-vegetarian (up to 10),8,P0114,Farid Rahman,non_vegetarian,MARKETING_TRIO,requested_group
+R-12,regular,Non-vegetarian (up to 10),9,P0116,Gavin Lee,non_vegetarian,MARKETING_TRIO,requested_group
+R-12,regular,Non-vegetarian (up to 10),10,P0416,Sanjay Chan,non_vegetarian,,dietary_random
+R-13,regular,Non-vegetarian (up to 10),1,P0117,Grace Kumar,non_vegetarian,SALES_TRIO,requested_group
+R-13,regular,Non-vegetarian (up to 10),2,P0118,Harish Patel,non_vegetarian,SALES_TRIO,requested_group
+R-13,regular,Non-vegetarian (up to 10),3,P0119,Hazel Omar,non_vegetarian,SALES_TRIO,requested_group
+R-13,regular,Non-vegetarian (up to 10),4,P0382,Ethan Pereira,non_vegetarian,,dietary_random
+R-13,regular,Non-vegetarian (up to 10),5,P0280,Brandon Nair,non_vegetarian,,dietary_random
+R-13,regular,Non-vegetarian (up to 10),6,P0127,Keith Raman,non_vegetarian,,dietary_random
+R-13,regular,Non-vegetarian (up to 10),7,P0309,Kiran Patel,non_vegetarian,,dietary_random
+R-13,regular,Non-vegetarian (up to 10),8,P0196,Deepak Fernandes,non_vegetarian,,dietary_random
+R-13,regular,Non-vegetarian (up to 10),9,P0144,Rachel Chan,non_vegetarian,,dietary_random
+R-13,regular,Non-vegetarian (up to 10),10,P0486,Kavya Hassan,non_vegetarian,,dietary_random
+R-14,regular,Non-vegetarian (up to 10),1,P0327,Siti Kumar,non_vegetarian,,dietary_random
+R-14,regular,Non-vegetarian (up to 10),2,P0264,Sharon Lee,non_vegetarian,,dietary_random
+R-14,regular,Non-vegetarian (up to 10),3,P0362,Aisha Ismail,non_vegetarian,,dietary_random
+R-14,regular,Non-vegetarian (up to 10),4,P0164,Ivan Ng,non_vegetarian,,dietary_random
+R-14,regular,Non-vegetarian (up to 10),5,P0270,Zhen Das,non_vegetarian,,dietary_random
+R-14,regular,Non-vegetarian (up to 10),6,P0402,Marcus Tan,non_vegetarian,,dietary_random
+R-14,regular,Non-vegetarian (up to 10),7,P0343,Hannah Rahman,non_vegetarian,,dietary_random
+R-14,regular,Non-vegetarian (up to 10),8,P0244,Yong Wei Taylor,non_vegetarian,,dietary_random
+R-14,regular,Non-vegetarian (up to 10),9,P0385,Felix Nair,non_vegetarian,,dietary_random
+R-14,regular,Non-vegetarian (up to 10),10,P0436,Khalid Ng,non_vegetarian,,dietary_random
+R-15,regular,Non-vegetarian (up to 10),1,P0450,Zhen Wong,non_vegetarian,,dietary_random
+R-15,regular,Non-vegetarian (up to 10),2,P0266,Uma Patel,non_vegetarian,,dietary_random
+R-15,regular,Non-vegetarian (up to 10),3,P0377,Derrick Khan,non_vegetarian,,dietary_random
+R-15,regular,Non-vegetarian (up to 10),4,P0442,Qistina Raman,non_vegetarian,,dietary_random
+R-15,regular,Non-vegetarian (up to 10),5,P0413,Rahul Singh,non_vegetarian,,dietary_random
+R-15,regular,Non-vegetarian (up to 10),6,P0132,Marcus Iyer,non_vegetarian,,dietary_random
+R-15,regular,Non-vegetarian (up to 10),7,P0473,Farah D Souza,non_vegetarian,,dietary_random
+R-15,regular,Non-vegetarian (up to 10),8,P0136,Nadia Kumar,non_vegetarian,,dietary_random
+R-15,regular,Non-vegetarian (up to 10),9,P0242,Xavier Sharma,non_vegetarian,,dietary_random
+R-15,regular,Non-vegetarian (up to 10),10,P0282,Cheryl Fernandes,non_vegetarian,,dietary_random
+R-16,regular,Non-vegetarian (up to 10),1,P0331,Wei Ling Ng,non_vegetarian,,dietary_random
+R-16,regular,Non-vegetarian (up to 10),2,P0279,Benjamin Low,non_vegetarian,,dietary_random
+R-16,regular,Non-vegetarian (up to 10),3,P0174,Sharon Low,non_vegetarian,,dietary_random
+R-16,regular,Non-vegetarian (up to 10),4,P0232,Priya Raman,non_vegetarian,,dietary_random
+R-16,regular,Non-vegetarian (up to 10),5,P0286,Deepak Omar,non_vegetarian,,dietary_random
+R-16,regular,Non-vegetarian (up to 10),6,P0230,Olivia Chew,non_vegetarian,,dietary_random
+R-16,regular,Non-vegetarian (up to 10),7,P0406,Nadia Fernandes,non_vegetarian,,dietary_random
+R-16,regular,Non-vegetarian (up to 10),8,P0458,Arjun Mohamed,non_vegetarian,,dietary_random
+R-16,regular,Non-vegetarian (up to 10),9,P0390,Ibrahim Sharma,non_vegetarian,,dietary_random
+R-16,regular,Non-vegetarian (up to 10),10,P0263,Ramesh D Souza,non_vegetarian,,dietary_random
+R-17,regular,Non-vegetarian (up to 10),1,P0158,Catherine D Souza,non_vegetarian,,dietary_random
+R-17,regular,Non-vegetarian (up to 10),2,P0370,Brandon Singh,non_vegetarian,,dietary_random
+R-17,regular,Non-vegetarian (up to 10),3,P0226,Nadia Ng,non_vegetarian,,dietary_random
+R-17,regular,Non-vegetarian (up to 10),4,P0190,Brandon Hassan,non_vegetarian,,dietary_random
+R-17,regular,Non-vegetarian (up to 10),5,P0317,Natalie Koh,non_vegetarian,,dietary_random
+R-17,regular,Non-vegetarian (up to 10),6,P0455,Amelia Goh,non_vegetarian,,dietary_random
+R-17,regular,Non-vegetarian (up to 10),7,P0360,Zhen Koh,non_vegetarian,,dietary_random
+R-17,regular,Non-vegetarian (up to 10),8,P0326,Sanjay Lee,non_vegetarian,,dietary_random
+R-17,regular,Non-vegetarian (up to 10),9,P0221,Lina Lee,non_vegetarian,,dietary_random
+R-17,regular,Non-vegetarian (up to 10),10,P0483,Jia Hui Chew,non_vegetarian,,dietary_random
+R-18,regular,Non-vegetarian (up to 10),1,P0355,Tanvi Chua,non_vegetarian,,dietary_random
+R-18,regular,Non-vegetarian (up to 10),2,P0285,Darren Sharma,non_vegetarian,,dietary_random
+R-18,regular,Non-vegetarian (up to 10),3,P0351,Pooja Singh,non_vegetarian,,dietary_random
+R-18,regular,Non-vegetarian (up to 10),4,P0181,Aaron Omar,non_vegetarian,,dietary_random
+R-18,regular,Non-vegetarian (up to 10),5,P0417,Siti Ng,non_vegetarian,,dietary_random
+R-18,regular,Non-vegetarian (up to 10),6,P0153,Yasmin Pereira,non_vegetarian,,dietary_random
+R-18,regular,Non-vegetarian (up to 10),7,P0332,Xavier Das,non_vegetarian,,dietary_random
+R-18,regular,Non-vegetarian (up to 10),8,P0479,Hazel Ng,non_vegetarian,,dietary_random
+R-18,regular,Non-vegetarian (up to 10),9,P0365,Amelia Teo,non_vegetarian,,dietary_random
+R-18,regular,Non-vegetarian (up to 10),10,P0262,Qistina Yusof,non_vegetarian,,dietary_random
+R-19,regular,Non-vegetarian (up to 10),1,P0484,Jonathan Koh,non_vegetarian,,dietary_random
+R-19,regular,Non-vegetarian (up to 10),2,P0434,Ivan Omar,non_vegetarian,,dietary_random
+R-19,regular,Non-vegetarian (up to 10),3,P0283,Clarissa Lee,non_vegetarian,,dietary_random
+R-19,regular,Non-vegetarian (up to 10),4,P0246,Alicia Singh,non_vegetarian,,dietary_random
+R-19,regular,Non-vegetarian (up to 10),5,P0384,Farid Low,non_vegetarian,,dietary_random
+R-19,regular,Non-vegetarian (up to 10),6,P0188,Arjun Chua,non_vegetarian,,dietary_random
+R-19,regular,Non-vegetarian (up to 10),7,P0141,Prakash Singh,non_vegetarian,,dietary_random
+R-19,regular,Non-vegetarian (up to 10),8,P0216,Kavya Lim,non_vegetarian,,dietary_random
+R-19,regular,Non-vegetarian (up to 10),9,P0431,Fiona Lee,non_vegetarian,,dietary_random
+R-19,regular,Non-vegetarian (up to 10),10,P0339,Daryl Aziz,non_vegetarian,,dietary_random
+R-20,regular,Non-vegetarian (up to 10),1,P0427,Bala Teo,non_vegetarian,,dietary_random
+R-20,regular,Non-vegetarian (up to 10),2,P0187,Andre Chew,non_vegetarian,,dietary_random
+R-20,regular,Non-vegetarian (up to 10),3,P0203,Farah Singh,non_vegetarian,,dietary_random
+R-20,regular,Non-vegetarian (up to 10),4,P0333,Yasmin Reddy,non_vegetarian,,dietary_random
+R-20,regular,Non-vegetarian (up to 10),5,P0422,Xavier Koh,non_vegetarian,,dietary_random
+R-20,regular,Non-vegetarian (up to 10),6,P0297,Grace Tan,non_vegetarian,,dietary_random
+R-20,regular,Non-vegetarian (up to 10),7,P0335,Zara Chew,non_vegetarian,,dietary_random
+R-20,regular,Non-vegetarian (up to 10),8,P0298,Harish Low,non_vegetarian,,dietary_random
+R-20,regular,Non-vegetarian (up to 10),9,P0319,Nur Ismail,non_vegetarian,,dietary_random
+R-20,regular,Non-vegetarian (up to 10),10,P0254,Ivan Tan,non_vegetarian,,dietary_random
+R-21,regular,Non-vegetarian (up to 10),1,P0460,Brandon Chua,non_vegetarian,,dietary_random
+R-21,regular,Non-vegetarian (up to 10),2,P0443,Ramesh Hassan,non_vegetarian,,dietary_random
+R-21,regular,Non-vegetarian (up to 10),3,P0366,Ananya Nair,non_vegetarian,,dietary_random
+R-21,regular,Non-vegetarian (up to 10),4,P0300,Ibrahim Ismail,non_vegetarian,,dietary_random
+R-21,regular,Non-vegetarian (up to 10),5,P0206,Gavin Chan,non_vegetarian,,dietary_random
+R-21,regular,Non-vegetarian (up to 10),6,P0373,Clarissa Chan,non_vegetarian,,dietary_random
+R-21,regular,Non-vegetarian (up to 10),7,P0184,Alvin Das,non_vegetarian,,dietary_random
+R-21,regular,Non-vegetarian (up to 10),8,P0337,Bala Raman,non_vegetarian,,dietary_random
+R-21,regular,Non-vegetarian (up to 10),9,P0454,Alvin Taylor,non_vegetarian,,dietary_random
+R-21,regular,Non-vegetarian (up to 10),10,P0361,Aaron Iyer,non_vegetarian,,dietary_random
+R-22,regular,Non-vegetarian (up to 10),1,P0303,Jia Hui Teo,non_vegetarian,,dietary_random
+R-22,regular,Non-vegetarian (up to 10),2,P0467,Derrick Ismail,non_vegetarian,,dietary_random
+R-22,regular,Non-vegetarian (up to 10),3,P0437,Lavanya Das,non_vegetarian,,dietary_random
+R-22,regular,Non-vegetarian (up to 10),4,P0354,Sharon Chan,non_vegetarian,,dietary_random
+R-22,regular,Non-vegetarian (up to 10),5,P0278,Arjun Lim,non_vegetarian,,dietary_random
+R-22,regular,Non-vegetarian (up to 10),6,P0464,Daniel Tan,non_vegetarian,,dietary_random
+R-22,regular,Non-vegetarian (up to 10),7,P0245,Zara Goh,non_vegetarian,,dietary_random
+R-22,regular,Non-vegetarian (up to 10),8,P0237,Siti Iyer,non_vegetarian,,dietary_random
+R-22,regular,Non-vegetarian (up to 10),9,P0425,Zara Pereira,non_vegetarian,,dietary_random
+R-22,regular,Non-vegetarian (up to 10),10,P0444,Sharon Aziz,non_vegetarian,,dietary_random
+R-23,regular,Non-vegetarian (up to 10),1,P0182,Aisha Taylor,non_vegetarian,,dietary_random
+R-23,regular,Non-vegetarian (up to 10),2,P0387,Grace Fernandes,non_vegetarian,,dietary_random
+R-23,regular,Non-vegetarian (up to 10),3,P0224,Melissa Omar,non_vegetarian,,dietary_random
+R-23,regular,Non-vegetarian (up to 10),4,P0227,Natalie Das,non_vegetarian,,dietary_random
+R-23,regular,Non-vegetarian (up to 10),5,P0466,Deepak Iyer,non_vegetarian,,dietary_random
+R-23,regular,Non-vegetarian (up to 10),6,P0139,Nur Taylor,non_vegetarian,,dietary_random
+R-23,regular,Non-vegetarian (up to 10),7,P0171,Pooja Hassan,non_vegetarian,,dietary_random
+R-23,regular,Non-vegetarian (up to 10),8,P0388,Harish Lee,non_vegetarian,,dietary_random
+R-23,regular,Non-vegetarian (up to 10),9,P0462,Cheryl Ahmad,non_vegetarian,,dietary_random
+R-23,regular,Non-vegetarian (up to 10),10,P0268,Wen Jie Chan,non_vegetarian,,dietary_random
+R-24,regular,Non-vegetarian (up to 10),1,P0205,Felix Mohamed,non_vegetarian,,dietary_random
+R-24,regular,Non-vegetarian (up to 10),2,P0156,Alicia Nair,non_vegetarian,,dietary_random
+R-24,regular,Non-vegetarian (up to 10),3,P0430,Evan D Souza,non_vegetarian,,dietary_random
+R-24,regular,Non-vegetarian (up to 10),4,P0256,Khalid Iyer,non_vegetarian,,dietary_random
+R-24,regular,Non-vegetarian (up to 10),5,P0349,Naveen Taylor,non_vegetarian,,dietary_random
+R-24,regular,Non-vegetarian (up to 10),6,P0225,Muhammad Taylor,non_vegetarian,,dietary_random
+R-24,regular,Non-vegetarian (up to 10),7,P0137,Natalie Sharma,non_vegetarian,,dietary_random
+R-24,regular,Non-vegetarian (up to 10),8,P0470,Eileen Teo,non_vegetarian,,dietary_random
+R-24,regular,Non-vegetarian (up to 10),9,P0120,Ibrahim Taylor,non_vegetarian,,dietary_random
+R-24,regular,Non-vegetarian (up to 10),10,P0369,Benjamin Lee,non_vegetarian,,dietary_random
+R-25,regular,Non-vegetarian (up to 10),1,P0336,Alicia Chua,non_vegetarian,,dietary_random
+R-25,regular,Non-vegetarian (up to 10),2,P0423,Yasmin Raman,non_vegetarian,,dietary_random
+R-25,regular,Non-vegetarian (up to 10),3,P0435,Janice Taylor,non_vegetarian,,dietary_random
+R-25,regular,Non-vegetarian (up to 10),4,P0459,Benjamin Chan,non_vegetarian,,dietary_random
+R-25,regular,Non-vegetarian (up to 10),5,P0157,Bala Yusof,non_vegetarian,,dietary_random
+R-25,regular,Non-vegetarian (up to 10),6,P0162,Gaurav Omar,non_vegetarian,,dietary_random
+R-25,regular,Non-vegetarian (up to 10),7,P0212,Jasmine Koh,non_vegetarian,,dietary_random
+R-25,regular,Non-vegetarian (up to 10),8,P0243,Yasmin Yusof,non_vegetarian,,dietary_random
+R-25,regular,Non-vegetarian (up to 10),9,P0173,Ramesh Lim,non_vegetarian,,dietary_random
+R-25,regular,Non-vegetarian (up to 10),10,P0324,Rachel Rahman,non_vegetarian,,dietary_random
+R-26,regular,Non-vegetarian (up to 10),1,P0209,Hazel Ahmad,non_vegetarian,,dietary_random
+R-26,regular,Non-vegetarian (up to 10),2,P0223,Meera Patel,non_vegetarian,,dietary_random
+R-26,regular,Non-vegetarian (up to 10),3,P0155,Zara Teo,non_vegetarian,,dietary_random
+R-26,regular,Non-vegetarian (up to 10),4,P0259,Naveen Wong,non_vegetarian,,dietary_random
+R-26,regular,Non-vegetarian (up to 10),5,P0140,Olivia Goh,non_vegetarian,,dietary_random
+R-26,regular,Non-vegetarian (up to 10),6,P0189,Benjamin Roy,non_vegetarian,,dietary_random
+R-26,regular,Non-vegetarian (up to 10),7,P0330,Vikram Taylor,non_vegetarian,,dietary_random
+R-26,regular,Non-vegetarian (up to 10),8,P0154,Yong Wei Wong,non_vegetarian,,dietary_random
+R-26,regular,Non-vegetarian (up to 10),9,P0311,Lina Chan,non_vegetarian,,dietary_random
+R-26,regular,Non-vegetarian (up to 10),10,P0222,Marcus Kumar,non_vegetarian,,dietary_random
+R-27,regular,Non-vegetarian (up to 10),1,P0265,Tanvi Singh,non_vegetarian,,dietary_random
+R-27,regular,Non-vegetarian (up to 10),2,P0238,Sophia Rahman,non_vegetarian,,dietary_random
+R-27,regular,Non-vegetarian (up to 10),3,P0407,Natalie Wong,non_vegetarian,,dietary_random
+R-27,regular,Non-vegetarian (up to 10),4,P0202,Ethan Goh,non_vegetarian,,dietary_random
+R-27,regular,Non-vegetarian (up to 10),5,P0272,Aisha Khan,non_vegetarian,,dietary_random
+R-27,regular,Non-vegetarian (up to 10),6,P0453,Akash Yusof,non_vegetarian,,dietary_random
+R-27,regular,Non-vegetarian (up to 10),7,P0150,Vikram Koh,non_vegetarian,,dietary_random
+R-27,regular,Non-vegetarian (up to 10),8,P0409,Nur Sharma,non_vegetarian,,dietary_random
+R-27,regular,Non-vegetarian (up to 10),9,P0191,Caroline Aziz,non_vegetarian,,dietary_random
+R-27,regular,Non-vegetarian (up to 10),10,P0418,Sophia Roy,non_vegetarian,,dietary_random
+R-28,regular,Non-vegetarian (up to 10),1,P0275,Amelia Raman,non_vegetarian,,dietary_random
+R-28,regular,Non-vegetarian (up to 10),2,P0310,Krishna Mohamed,non_vegetarian,,dietary_random
+R-28,regular,Non-vegetarian (up to 10),3,P0414,Rachel Patel,non_vegetarian,,dietary_random
+R-28,regular,Non-vegetarian (up to 10),4,P0151,Wei Ling Iyer,non_vegetarian,,dietary_random
+R-28,regular,Non-vegetarian (up to 10),5,P0261,Pooja Nair,non_vegetarian,,dietary_random
+R-28,regular,Non-vegetarian (up to 10),6,P0135,Muhammad Wong,non_vegetarian,,dietary_random
+R-28,regular,Non-vegetarian (up to 10),7,P0128,Ken Hassan,non_vegetarian,,dietary_random
+R-28,regular,Non-vegetarian (up to 10),8,P0475,Felix Singh,non_vegetarian,,dietary_random
+R-28,regular,Non-vegetarian (up to 10),9,P0314,Melissa Ahmad,non_vegetarian,,dietary_random
+R-28,regular,Non-vegetarian (up to 10),10,P0428,Catherine Nair,non_vegetarian,,dietary_random
+R-29,regular,Non-vegetarian (up to 10),1,P0393,Jia Hui Goh,non_vegetarian,,dietary_random
+R-29,regular,Non-vegetarian (up to 10),2,P0294,Farid Roy,non_vegetarian,,dietary_random
+R-29,regular,Non-vegetarian (up to 10),3,P0381,Elaine Hassan,non_vegetarian,,dietary_random
+R-29,regular,Non-vegetarian (up to 10),4,P0215,Karthik Pereira,non_vegetarian,,dietary_random
+R-29,regular,Non-vegetarian (up to 10),5,P0249,Daryl Chan,non_vegetarian,,dietary_random
+R-29,regular,Non-vegetarian (up to 10),6,P0121,Irene Ng,non_vegetarian,,dietary_random
+R-29,regular,Non-vegetarian (up to 10),7,P0267,Vijay Omar,non_vegetarian,,dietary_random
+R-29,regular,Non-vegetarian (up to 10),8,P0363,Akash Pereira,non_vegetarian,,dietary_random
+R-29,regular,Non-vegetarian (up to 10),9,P0192,Cheryl Tan,non_vegetarian,,dietary_random
+R-29,regular,Non-vegetarian (up to 10),10,P0208,Harish Roy,non_vegetarian,,dietary_random
+R-30,regular,Non-vegetarian (up to 10),1,P0485,Karthik Raman,non_vegetarian,,dietary_random
+R-30,regular,Non-vegetarian (up to 10),2,P0260,Omar Teo,non_vegetarian,,dietary_random
+R-30,regular,Non-vegetarian (up to 10),3,P0148,Sophia Aziz,non_vegetarian,,dietary_random
+R-30,regular,Non-vegetarian (up to 10),4,P0357,Vijay Ahmad,non_vegetarian,,dietary_random
+R-30,regular,Non-vegetarian (up to 10),5,P0410,Olivia Yusof,non_vegetarian,,dietary_random
+R-30,regular,Non-vegetarian (up to 10),6,P0252,Gaurav Ahmad,non_vegetarian,,dietary_random
+R-30,regular,Non-vegetarian (up to 10),7,P0341,Fiona Low,non_vegetarian,,dietary_random
+R-30,regular,Non-vegetarian (up to 10),8,P0269,Yvonne Ng,non_vegetarian,,dietary_random
+R-30,regular,Non-vegetarian (up to 10),9,P0389,Hazel Kumar,non_vegetarian,,dietary_random
+R-30,regular,Non-vegetarian (up to 10),10,P0371,Caroline Patel,non_vegetarian,,dietary_random
+R-31,regular,Non-vegetarian (up to 10),1,P0178,Wen Jie Lee,non_vegetarian,,dietary_random
+R-31,regular,Non-vegetarian (up to 10),2,P0321,Prakash Lim,non_vegetarian,,dietary_random
+R-31,regular,Non-vegetarian (up to 10),3,P0316,Nadia Tan,non_vegetarian,,dietary_random
+R-31,regular,Non-vegetarian (up to 10),4,P0480,Ibrahim Das,non_vegetarian,,dietary_random
+R-31,regular,Non-vegetarian (up to 10),5,P0447,Vijay Iyer,non_vegetarian,,dietary_random
+R-31,regular,Non-vegetarian (up to 10),6,P0356,Uma Roy,non_vegetarian,,dietary_random
+R-31,regular,Non-vegetarian (up to 10),7,P0342,Gaurav Iyer,non_vegetarian,,dietary_random
+R-31,regular,Non-vegetarian (up to 10),8,P0397,Keith Chew,non_vegetarian,,dietary_random
+R-31,regular,Non-vegetarian (up to 10),9,P0290,Eileen Reddy,non_vegetarian,,dietary_random
+R-31,regular,Non-vegetarian (up to 10),10,P0323,Rahul Nair,non_vegetarian,,dietary_random
+R-32,regular,Non-vegetarian (up to 10),1,P0276,Ananya Hassan,non_vegetarian,,dietary_random
+R-32,regular,Non-vegetarian (up to 10),2,P0274,Alvin Koh,non_vegetarian,,dietary_random
+R-32,regular,Non-vegetarian (up to 10),3,P0313,Meera Roy,non_vegetarian,,dietary_random
+R-32,regular,Non-vegetarian (up to 10),4,P0411,Prakash D Souza,non_vegetarian,,dietary_random
+R-32,regular,Non-vegetarian (up to 10),5,P0273,Akash Chew,non_vegetarian,,dietary_random
+R-32,regular,Non-vegetarian (up to 10),6,P0185,Amelia Reddy,non_vegetarian,,dietary_random
+R-32,regular,Non-vegetarian (up to 10),7,P0177,Vijay Fernandes,non_vegetarian,,dietary_random
+R-32,regular,Non-vegetarian (up to 10),8,P0481,Irene Ahmad,non_vegetarian,,dietary_random
+R-32,regular,Non-vegetarian (up to 10),9,P0372,Cheryl Omar,non_vegetarian,,dietary_random
+R-32,regular,Non-vegetarian (up to 10),10,P0138,Nicholas Yusof,non_vegetarian,,dietary_random
+R-33,regular,Non-vegetarian (up to 10),1,P0440,Omar Chew,non_vegetarian,,dietary_random
+R-33,regular,Non-vegetarian (up to 10),2,P0165,Janice Das,non_vegetarian,,dietary_random
+R-33,regular,Non-vegetarian (up to 10),3,P0465,Darren Koh,non_vegetarian,,dietary_random
+R-33,regular,Non-vegetarian (up to 10),4,P0304,Jonathan Sharma,non_vegetarian,,dietary_random
+R-33,regular,Non-vegetarian (up to 10),5,P0368,Arjun D Souza,non_vegetarian,,dietary_random
+R-33,regular,Non-vegetarian (up to 10),6,P0405,Muhammad Ismail,non_vegetarian,,dietary_random
+R-33,regular,Non-vegetarian (up to 10),7,P0353,Ramesh Mohamed,non_vegetarian,,dietary_random
+R-33,regular,Non-vegetarian (up to 10),8,P0421,Wei Ling Tan,non_vegetarian,,dietary_random
+R-33,regular,Non-vegetarian (up to 10),9,P0289,Dinesh Das,non_vegetarian,,dietary_random
+R-33,regular,Non-vegetarian (up to 10),10,P0180,Zhen Sharma,non_vegetarian,,dietary_random
+R-34,regular,Non-vegetarian (up to 10),1,P0293,Farah Chua,non_vegetarian,,dietary_random
+R-34,regular,Non-vegetarian (up to 10),2,P0312,Marcus Ng,non_vegetarian,,dietary_random
+R-34,regular,Non-vegetarian (up to 10),3,P0359,Yvonne Tan,non_vegetarian,,dietary_random
+R-34,regular,Non-vegetarian (up to 10),4,P0218,Ken Nair,non_vegetarian,,dietary_random
+R-34,regular,Non-vegetarian (up to 10),5,P0302,Jasmine Wong,non_vegetarian,,dietary_random
+R-34,regular,Non-vegetarian (up to 10),6,P0472,Ethan Yusof,non_vegetarian,,dietary_random
+R-34,regular,Non-vegetarian (up to 10),7,P0193,Clarissa Low,non_vegetarian,,dietary_random
+R-34,regular,Non-vegetarian (up to 10),8,P0400,Krishna Hassan,non_vegetarian,,dietary_random
+R-34,regular,Non-vegetarian (up to 10),9,P0161,Fiona Patel,non_vegetarian,,dietary_random
+R-34,regular,Non-vegetarian (up to 10),10,P0379,Dinesh Koh,non_vegetarian,,dietary_random
+R-35,regular,Non-vegetarian (up to 10),1,P0457,Andre Reddy,non_vegetarian,,dietary_random
+R-35,regular,Non-vegetarian (up to 10),2,P0299,Hazel Iyer,non_vegetarian,,dietary_random
+R-35,regular,Non-vegetarian (up to 10),3,P0210,Ibrahim Khan,non_vegetarian,,dietary_random
+R-35,regular,Non-vegetarian (up to 10),4,P0468,Dev Pereira,non_vegetarian,,dietary_random
+R-35,regular,Non-vegetarian (up to 10),5,P0291,Elaine Mohamed,non_vegetarian,,dietary_random
+R-35,regular,Non-vegetarian (up to 10),6,P0207,Grace Ng,non_vegetarian,,dietary_random
+R-35,regular,Non-vegetarian (up to 10),7,P0240,Vikram Wong,non_vegetarian,,dietary_random
+R-35,regular,Non-vegetarian (up to 10),8,P0461,Caroline Roy,non_vegetarian,,dietary_random
+R-35,regular,Non-vegetarian (up to 10),9,P0195,Darren Ismail,non_vegetarian,,dietary_random
+R-35,regular,Non-vegetarian (up to 10),10,P0350,Omar Goh,non_vegetarian,,dietary_random
+R-36,regular,Non-vegetarian (up to 10),1,P0348,Maya Yusof,non_vegetarian,,dietary_random
+R-36,regular,Non-vegetarian (up to 10),2,P0168,Maya Chew,non_vegetarian,,dietary_random
+R-36,regular,Non-vegetarian (up to 10),3,P0477,Grace Omar,non_vegetarian,,dietary_random
+R-36,regular,Non-vegetarian (up to 10),4,P0328,Sophia Patel,non_vegetarian,,dietary_random
+R-36,regular,Non-vegetarian (up to 10),5,P0163,Hannah Chan,non_vegetarian,,dietary_random
+R-36,regular,Non-vegetarian (up to 10),6,P0396,Kavya Mohamed,non_vegetarian,,dietary_random
+R-36,regular,Non-vegetarian (up to 10),7,P0229,Nur Khan,non_vegetarian,,dietary_random
+R-36,regular,Non-vegetarian (up to 10),8,P0352,Qistina Reddy,non_vegetarian,,dietary_random
+R-36,regular,Non-vegetarian (up to 10),9,P0398,Ken Chua,non_vegetarian,,dietary_random
+R-36,regular,Non-vegetarian (up to 10),10,P0234,Rachel Aziz,non_vegetarian,,dietary_random
+R-37,regular,Non-vegetarian (up to 10),1,P0358,Wen Jie Aziz,non_vegetarian,,dietary_random
+R-37,regular,Non-vegetarian (up to 10),2,P0426,Alicia Lim,non_vegetarian,,dietary_random
+R-37,regular,Non-vegetarian (up to 10),3,P0220,Krishna D Souza,non_vegetarian,,dietary_random
+R-37,regular,Non-vegetarian (up to 10),4,P0146,Sanjay Roy,non_vegetarian,,dietary_random
+R-37,regular,Non-vegetarian (up to 10),5,P0204,Farid Patel,non_vegetarian,,dietary_random
+R-37,regular,Non-vegetarian (up to 10),6,P0292,Ethan Chew,non_vegetarian,,dietary_random
+R-37,regular,Non-vegetarian (up to 10),7,P0129,Kiran Aziz,non_vegetarian,,dietary_random
+R-37,regular,Non-vegetarian (up to 10),8,P0439,Naveen Khan,non_vegetarian,,dietary_random
+R-37,regular,Non-vegetarian (up to 10),9,P0134,Melissa Fernandes,non_vegetarian,,dietary_random
+R-37,regular,Non-vegetarian (up to 10),10,P0239,Terence Fernandes,non_vegetarian,,dietary_random
+R-38,regular,Non-vegetarian (up to 10),1,P0401,Lina Aziz,non_vegetarian,,dietary_random
+R-38,regular,Non-vegetarian (up to 10),2,P0287,Derrick Taylor,non_vegetarian,,dietary_random
+R-38,regular,Non-vegetarian (up to 10),3,P0301,Irene Fernandes,non_vegetarian,,dietary_random
+R-38,regular,Non-vegetarian (up to 10),4,P0308,Ken Singh,non_vegetarian,,dietary_random
+R-38,regular,Non-vegetarian (up to 10),5,P0169,Naveen Koh,non_vegetarian,,dietary_random
+R-38,regular,Non-vegetarian (up to 10),6,P0186,Ananya Mohamed,non_vegetarian,,dietary_random
+R-38,regular,Non-vegetarian (up to 10),7,P0412,Priya Goh,non_vegetarian,,dietary_random
+R-38,regular,Non-vegetarian (up to 10),8,P0446,Uma Low,non_vegetarian,,dietary_random
+R-38,regular,Non-vegetarian (up to 10),9,P0253,Hannah Aziz,non_vegetarian,,dietary_random
+R-38,regular,Non-vegetarian (up to 10),10,P0338,Catherine Hassan,non_vegetarian,,dietary_random
+R-39,regular,Non-vegetarian (up to 10),1,P0176,Uma Rahman,non_vegetarian,,dietary_random
+R-39,regular,Non-vegetarian (up to 10),2,P0166,Khalid Ahmad,non_vegetarian,,dietary_random
+R-39,regular,Non-vegetarian (up to 10),3,P0167,Lavanya Khan,non_vegetarian,,dietary_random
+R-39,regular,Non-vegetarian (up to 10),4,P0197,Derrick Wong,non_vegetarian,,dietary_random
+R-39,regular,Non-vegetarian (up to 10),5,P0160,Evan Singh,non_vegetarian,,dietary_random
+R-39,regular,Non-vegetarian (up to 10),6,P0408,Nicholas Teo,non_vegetarian,,dietary_random
+R-39,regular,Non-vegetarian (up to 10),7,P0194,Daniel Iyer,non_vegetarian,,dietary_random
+R-39,regular,Non-vegetarian (up to 10),8,P0429,Daryl Rahman,non_vegetarian,,dietary_random
+R-39,regular,Non-vegetarian (up to 10),9,P0471,Elaine Nair,non_vegetarian,,dietary_random
+R-39,regular,Non-vegetarian (up to 10),10,P0334,Yong Wei Khan,non_vegetarian,,dietary_random
+R-40,regular,Non-vegetarian (up to 10),1,P0378,Dev Chew,non_vegetarian,,dietary_random
+R-40,regular,Non-vegetarian (up to 10),2,P0445,Tanvi Lim,non_vegetarian,,dietary_random
+R-40,regular,Non-vegetarian (up to 10),3,P0346,Khalid Kumar,non_vegetarian,,dietary_random
+R-40,regular,Non-vegetarian (up to 10),4,P0295,Felix Hassan,non_vegetarian,,dietary_random
+R-40,regular,Non-vegetarian (up to 10),5,P0325,Ravi D Souza,non_vegetarian,,dietary_random
+R-40,regular,Non-vegetarian (up to 10),6,P0380,Eileen Raman,non_vegetarian,,dietary_random
+R-40,regular,Non-vegetarian (up to 10),7,P0257,Lavanya Ismail,non_vegetarian,,dietary_random
+R-40,regular,Non-vegetarian (up to 10),8,P0449,Yvonne Fernandes,non_vegetarian,,dietary_random
+R-40,regular,Non-vegetarian (up to 10),9,P0228,Nicholas Reddy,non_vegetarian,,dietary_random
+R-40,regular,Non-vegetarian (up to 10),10,P0133,Meera Rahman,non_vegetarian,,dietary_random
+R-41,regular,Non-vegetarian (up to 10),1,P0322,Priya Teo,non_vegetarian,,dietary_random
+R-41,regular,Non-vegetarian (up to 10),2,P0149,Terence Tan,non_vegetarian,,dietary_random
+R-41,regular,Non-vegetarian (up to 10),3,P0248,Catherine Mohamed,non_vegetarian,,dietary_random
+R-41,regular,Non-vegetarian (up to 10),4,P0241,Wei Ling Kumar,non_vegetarian,,dietary_random
+R-41,regular,Non-vegetarian (up to 10),5,P0258,Maya Pereira,non_vegetarian,,dietary_random
+R-41,regular,Non-vegetarian (up to 10),6,P0340,Evan Lim,non_vegetarian,,dietary_random
+R-41,regular,Non-vegetarian (up to 10),7,P0296,Gavin Aziz,non_vegetarian,,dietary_random
+R-41,regular,Non-vegetarian (up to 10),8,P0122,Jasmine Das,non_vegetarian,,dietary_random
+R-41,regular,Non-vegetarian (up to 10),9,P0172,Qistina Pereira,non_vegetarian,,dietary_random
+R-41,regular,Non-vegetarian (up to 10),10,P0179,Yvonne Kumar,non_vegetarian,,dietary_random
+R-42,regular,Non-vegetarian (up to 10),1,P0198,Dev Teo,non_vegetarian,,dietary_random
+R-42,regular,Non-vegetarian (up to 10),2,P0211,Irene Tan,non_vegetarian,,dietary_random
+R-42,regular,Non-vegetarian (up to 10),3,P0386,Gavin Rahman,non_vegetarian,,dietary_random
+R-42,regular,Non-vegetarian (up to 10),4,P0307,Keith Goh,non_vegetarian,,dietary_random
+R-42,regular,Non-vegetarian (up to 10),5,P0159,Daryl Lee,non_vegetarian,,dietary_random
+R-42,regular,Non-vegetarian (up to 10),6,P0126,Kavya Chua,non_vegetarian,,dietary_random
+R-42,regular,Non-vegetarian (up to 10),7,P0391,Irene Omar,non_vegetarian,,dietary_random
+R-42,regular,Non-vegetarian (up to 10),8,P0320,Olivia Pereira,non_vegetarian,,dietary_random
+R-42,regular,Non-vegetarian (up to 10),9,P0142,Priya Reddy,non_vegetarian,,dietary_random
+R-42,regular,Non-vegetarian (up to 10),10,P0374,Daniel Ng,non_vegetarian,,dietary_random
+R-43,regular,Non-vegetarian (up to 10),1,P0392,Jasmine Taylor,non_vegetarian,,dietary_random
+R-43,regular,Non-vegetarian (up to 10),2,P0233,Rahul Hassan,non_vegetarian,,dietary_random
+R-43,regular,Non-vegetarian (up to 10),3,P0469,Dinesh Wong,non_vegetarian,,dietary_random
+R-43,regular,Non-vegetarian (up to 10),4,P0403,Meera Low,non_vegetarian,,dietary_random
+R-43,regular,Non-vegetarian (up to 10),5,P0395,Karthik Reddy,non_vegetarian,,dietary_random
+R-43,regular,Non-vegetarian (up to 10),6,P0306,Kavya D Souza,non_vegetarian,,dietary_random
+R-43,regular,Non-vegetarian (up to 10),7,P0424,Yong Wei Ismail,non_vegetarian,,dietary_random
+R-43,regular,Non-vegetarian (up to 10),8,P0420,Vikram Khan,non_vegetarian,,dietary_random
+R-43,regular,Non-vegetarian (up to 10),9,P0404,Melissa Iyer,non_vegetarian,,dietary_random
+R-43,regular,Non-vegetarian (up to 10),10,P0250,Evan Chua,non_vegetarian,,dietary_random
+R-44,regular,Non-vegetarian (up to 10),1,P0451,Aaron Kumar,non_vegetarian,,dietary_random
+R-44,regular,Non-vegetarian (up to 10),2,P0271,Aaron Ahmad,non_vegetarian,,dietary_random
+R-44,regular,Non-vegetarian (up to 10),3,P0315,Muhammad Khan,non_vegetarian,,dietary_random
+R-44,regular,Non-vegetarian (up to 10),4,P0236,Sanjay Low,non_vegetarian,,dietary_random
+R-44,regular,Non-vegetarian (up to 10),5,P0448,Wen Jie Rahman,non_vegetarian,,dietary_random
+R-44,regular,Non-vegetarian (up to 10),6,P0214,Jonathan Ismail,non_vegetarian,,dietary_random
+R-44,regular,Non-vegetarian (up to 10),7,P0231,Prakash Chua,non_vegetarian,,dietary_random
+R-44,regular,Non-vegetarian (up to 10),8,P0147,Siti Ahmad,non_vegetarian,,dietary_random
+R-44,regular,Non-vegetarian (up to 10),9,P0383,Farah Lim,non_vegetarian,,dietary_random
+R-44,regular,Non-vegetarian (up to 10),10,P0344,Ivan Fernandes,non_vegetarian,,dietary_random
+R-45,regular,Non-vegetarian (up to 10),1,P0235,Ravi Lim,non_vegetarian,,dietary_random
+R-45,regular,Non-vegetarian (up to 10),2,P0456,Ananya Singh,non_vegetarian,,dietary_random
+R-45,regular,Non-vegetarian (up to 10),3,P0376,Deepak Ahmad,non_vegetarian,,dietary_random
+R-45,regular,Non-vegetarian (up to 10),4,P0143,Rahul Mohamed,non_vegetarian,,dietary_random
+R-45,regular,Non-vegetarian (up to 10),5,P0213,Jia Hui Raman,non_vegetarian,,dietary_random
+R-45,regular,Non-vegetarian (up to 10),6,P0281,Caroline Rahman,non_vegetarian,,dietary_random
+R-45,regular,Non-vegetarian (up to 10),7,P0288,Dev Goh,non_vegetarian,,dietary_random
+R-45,regular,Non-vegetarian (up to 10),8,P0124,Jonathan Khan,non_vegetarian,,dietary_random
+R-45,regular,Non-vegetarian (up to 10),9,P0432,Gaurav Kumar,non_vegetarian,,dietary_random
+R-45,regular,Non-vegetarian (up to 10),10,P0125,Karthik Chew,non_vegetarian,,dietary_random
+R-46,regular,Non-vegetarian (up to 10),1,P0277,Andre Pereira,non_vegetarian,,dietary_random
+R-46,regular,Non-vegetarian (up to 10),2,P0375,Darren Das,non_vegetarian,,dietary_random
+R-46,regular,Non-vegetarian (up to 10),3,P0145,Ravi Chua,non_vegetarian,,dietary_random
+R-46,regular,Non-vegetarian (up to 10),4,P0415,Ravi Mohamed,non_vegetarian,,dietary_random
+R-46,regular,Non-vegetarian (up to 10),5,P0255,Janice Koh,non_vegetarian,,dietary_random
+R-46,regular,Non-vegetarian (up to 10),6,P0394,Jonathan Das,non_vegetarian,,dietary_random
+R-46,regular,Non-vegetarian (up to 10),7,P0474,Farid Lee,non_vegetarian,,dietary_random
+R-46,regular,Non-vegetarian (up to 10),8,P0284,Daniel Kumar,non_vegetarian,,dietary_random
+R-46,regular,Non-vegetarian (up to 10),9,P0152,Xavier Ismail,non_vegetarian,,dietary_random
+R-46,regular,Non-vegetarian (up to 10),10,P0219,Kiran Rahman,non_vegetarian,,dietary_random
+R-47,regular,Non-vegetarian (up to 10),1,P0433,Hannah Patel,non_vegetarian,,dietary_random
+R-47,regular,Non-vegetarian (up to 10),2,P0175,Tanvi Nair,non_vegetarian,,dietary_random
+R-47,regular,Non-vegetarian (up to 10),3,P0251,Fiona Roy,non_vegetarian,,dietary_random
+R-47,regular,Non-vegetarian (up to 10),4,P0441,Pooja Chua,non_vegetarian,,dietary_random
+R-47,regular,Non-vegetarian (up to 10),5,P0399,Kiran Roy,non_vegetarian,,dietary_random
+R-47,regular,Non-vegetarian (up to 10),6,P0305,Karthik Yusof,non_vegetarian,,dietary_random
+R-47,regular,Non-vegetarian (up to 10),7,P0463,Clarissa Aziz,non_vegetarian,,dietary_random
+R-47,regular,Non-vegetarian (up to 10),8,P0452,Aisha Sharma,non_vegetarian,,dietary_random
+R-47,regular,Non-vegetarian (up to 10),9,P0367,Andre Yusof,non_vegetarian,,dietary_random
+R-47,regular,Non-vegetarian (up to 10),10,P0170,Omar Raman,non_vegetarian,,dietary_random
+R-48,regular,Non-vegetarian (up to 10),1,P0478,Harish Chan,non_vegetarian,,dietary_random
+R-48,regular,Non-vegetarian (up to 10),2,P0199,Dinesh Sharma,non_vegetarian,,dietary_random
+R-48,regular,Non-vegetarian (up to 10),3,P0131,Lina Low,non_vegetarian,,dietary_random
+R-48,regular,Non-vegetarian (up to 10),4,P0419,Terence Ahmad,non_vegetarian,,dietary_random
+R-48,regular,Non-vegetarian (up to 10),5,P0318,Nicholas Raman,non_vegetarian,,dietary_random
+R-48,regular,Non-vegetarian (up to 10),6,P0130,Krishna Lim,non_vegetarian,,dietary_random
+R-48,regular,Non-vegetarian (up to 10),7,P0347,Lavanya Sharma,non_vegetarian,,dietary_random
+R-48,regular,Non-vegetarian (up to 10),8,P0329,Terence Omar,non_vegetarian,,dietary_random
+R-48,regular,Non-vegetarian (up to 10),9,P0247,Bala Reddy,non_vegetarian,,dietary_random
+R-48,regular,Non-vegetarian (up to 10),10,P0201,Elaine D Souza,non_vegetarian,,dietary_random
+R-49,regular,Non-vegetarian (up to 10),1,P0123,Jia Hui Reddy,non_vegetarian,,dietary_random
+R-49,regular,Non-vegetarian (up to 10),2,P0183,Akash Goh,non_vegetarian,,dietary_random
+R-49,regular,Non-vegetarian (up to 10),3,P0200,Eileen Yusof,non_vegetarian,,dietary_random
+R-49,regular,Non-vegetarian (up to 10),4,P0476,Gavin Patel,non_vegetarian,,dietary_random
+R-49,regular,Non-vegetarian (up to 10),5,P0482,Jasmine Khan,non_vegetarian,,dietary_random
+R-50,regular,Vegetarian-only (up to 10),1,P0493,Meera Lee,vegetarian,VEG_TABLE_A,requested_group
+R-50,regular,Vegetarian-only (up to 10),2,P0488,Ken Lim,vegetarian,VEG_TABLE_A,requested_group
+R-50,regular,Vegetarian-only (up to 10),3,P0489,Kiran Low,vegetarian,VEG_TABLE_A,requested_group
+R-50,regular,Vegetarian-only (up to 10),4,P0492,Marcus Fernandes,vegetarian,VEG_TABLE_A,requested_group
+R-50,regular,Vegetarian-only (up to 10),5,P0490,Krishna Nair,vegetarian,VEG_TABLE_A,requested_group
+R-50,regular,Vegetarian-only (up to 10),6,P0494,Melissa Kumar,vegetarian,VEG_TABLE_A,requested_group
+R-50,regular,Vegetarian-only (up to 10),7,P0491,Lina Rahman,vegetarian,VEG_TABLE_A,requested_group
+R-50,regular,Vegetarian-only (up to 10),8,P0487,Keith Pereira,vegetarian,VEG_TABLE_A,requested_group
+R-50,regular,Vegetarian-only (up to 10),9,P0495,Muhammad Sharma,vegetarian,VEG_TABLE_A,requested_group
+R-50,regular,Vegetarian-only (up to 10),10,P0496,Nadia Omar,vegetarian,VEG_TABLE_A,requested_group
+R-51,regular,Vegetarian-only (up to 10),1,P0504,Rachel Roy,vegetarian,VEG_FRIENDS,requested_group
+R-51,regular,Vegetarian-only (up to 10),2,P0498,Nicholas Goh,vegetarian,VEG_FRIENDS,requested_group
+R-51,regular,Vegetarian-only (up to 10),3,P0503,Rahul Chua,vegetarian,VEG_FRIENDS,requested_group
+R-51,regular,Vegetarian-only (up to 10),4,P0500,Olivia Reddy,vegetarian,VEG_FRIENDS,requested_group
+R-51,regular,Vegetarian-only (up to 10),5,P0497,Natalie Taylor,vegetarian,VEG_FRIENDS,requested_group
+R-51,regular,Vegetarian-only (up to 10),6,P0502,Priya Chew,vegetarian,VEG_FRIENDS,requested_group
+R-51,regular,Vegetarian-only (up to 10),7,P0499,Nur Das,vegetarian,VEG_FRIENDS,requested_group
+R-51,regular,Vegetarian-only (up to 10),8,P0501,Prakash Mohamed,vegetarian,VEG_FRIENDS,requested_group
+R-51,regular,Vegetarian-only (up to 10),9,P0545,Amelia Chew,vegetarian,,dietary_random
+R-51,regular,Vegetarian-only (up to 10),10,P0548,Arjun Hassan,vegetarian,,dietary_random
+R-52,regular,Vegetarian-only (up to 10),1,P0509,Terence Iyer,vegetarian,DESIGN_VEG,requested_group
+R-52,regular,Vegetarian-only (up to 10),2,P0510,Vikram Ismail,vegetarian,DESIGN_VEG,requested_group
+R-52,regular,Vegetarian-only (up to 10),3,P0507,Siti Tan,vegetarian,DESIGN_VEG,requested_group
+R-52,regular,Vegetarian-only (up to 10),4,P0505,Ravi Hassan,vegetarian,DESIGN_VEG,requested_group
+R-52,regular,Vegetarian-only (up to 10),5,P0508,Sophia Low,vegetarian,DESIGN_VEG,requested_group
+R-52,regular,Vegetarian-only (up to 10),6,P0506,Sanjay Aziz,vegetarian,DESIGN_VEG,requested_group
+R-52,regular,Vegetarian-only (up to 10),7,P0517,Bala Goh,vegetarian,GREEN_TEAM,requested_group
+R-52,regular,Vegetarian-only (up to 10),8,P0516,Alicia D Souza,vegetarian,GREEN_TEAM,requested_group
+R-52,regular,Vegetarian-only (up to 10),9,P0518,Catherine Singh,vegetarian,GREEN_TEAM,requested_group
+R-52,regular,Vegetarian-only (up to 10),10,P0519,Daryl Patel,vegetarian,GREEN_TEAM,requested_group
+R-53,regular,Vegetarian-only (up to 10),1,P0512,Xavier Wong,vegetarian,CULTURE_VEG,requested_group
+R-53,regular,Vegetarian-only (up to 10),2,P0513,Yasmin Teo,vegetarian,CULTURE_VEG,requested_group
+R-53,regular,Vegetarian-only (up to 10),3,P0514,Yong Wei Sharma,vegetarian,CULTURE_VEG,requested_group
+R-53,regular,Vegetarian-only (up to 10),4,P0511,Wei Ling Fernandes,vegetarian,CULTURE_VEG,requested_group
+R-53,regular,Vegetarian-only (up to 10),5,P0515,Zara Yusof,vegetarian,CULTURE_VEG,requested_group
+R-53,regular,Vegetarian-only (up to 10),6,P0520,Evan Mohamed,vegetarian,HEALTH_VEG,requested_group
+R-53,regular,Vegetarian-only (up to 10),7,P0522,Gaurav Ng,vegetarian,HEALTH_VEG,requested_group
+R-53,regular,Vegetarian-only (up to 10),8,P0521,Fiona Chan,vegetarian,HEALTH_VEG,requested_group
+R-53,regular,Vegetarian-only (up to 10),9,P0532,Qistina Teo,vegetarian,,dietary_random
+R-53,regular,Vegetarian-only (up to 10),10,P0544,Alvin Khan,vegetarian,,dietary_random
+R-54,regular,Vegetarian-only (up to 10),1,P0539,Yvonne Omar,vegetarian,,dietary_random
+R-54,regular,Vegetarian-only (up to 10),2,P0543,Akash Reddy,vegetarian,,dietary_random
+R-54,regular,Vegetarian-only (up to 10),3,P0547,Andre Raman,vegetarian,,dietary_random
+R-54,regular,Vegetarian-only (up to 10),4,P0536,Uma Lee,vegetarian,,dietary_random
+R-54,regular,Vegetarian-only (up to 10),5,P0531,Pooja Lim,vegetarian,,dietary_random
+R-54,regular,Vegetarian-only (up to 10),6,P0534,Sharon Rahman,vegetarian,,dietary_random
+R-54,regular,Vegetarian-only (up to 10),7,P0525,Janice Khan,vegetarian,,dietary_random
+R-54,regular,Vegetarian-only (up to 10),8,P0554,Daniel Fernandes,vegetarian,,dietary_random
+R-54,regular,Vegetarian-only (up to 10),9,P0546,Ananya Chua,vegetarian,,dietary_random
+R-54,regular,Vegetarian-only (up to 10),10,P0553,Clarissa Rahman,vegetarian,,dietary_random
+R-55,regular,Vegetarian-only (up to 10),1,P0537,Vijay Kumar,vegetarian,,dietary_random
+R-55,regular,Vegetarian-only (up to 10),2,P0533,Ramesh Nair,vegetarian,,dietary_random
+R-55,regular,Vegetarian-only (up to 10),3,P0540,Zhen Taylor,vegetarian,,dietary_random
+R-55,regular,Vegetarian-only (up to 10),4,P0552,Cheryl Iyer,vegetarian,,dietary_random
+R-55,regular,Vegetarian-only (up to 10),5,P0523,Hannah Roy,vegetarian,,dietary_random
+R-55,regular,Vegetarian-only (up to 10),6,P0550,Brandon Lim,vegetarian,,dietary_random
+R-55,regular,Vegetarian-only (up to 10),7,P0541,Aaron Ng,vegetarian,,dietary_random
+R-55,regular,Vegetarian-only (up to 10),8,P0551,Caroline Low,vegetarian,,dietary_random
+R-55,regular,Vegetarian-only (up to 10),9,P0527,Lavanya Koh,vegetarian,,dietary_random
+R-55,regular,Vegetarian-only (up to 10),10,P0528,Maya Raman,vegetarian,,dietary_random
+R-56,regular,Vegetarian-only (up to 10),1,P0530,Omar Pereira,vegetarian,,dietary_random
+R-56,regular,Vegetarian-only (up to 10),2,P0526,Khalid Tan,vegetarian,,dietary_random
+R-56,regular,Vegetarian-only (up to 10),3,P0538,Wen Jie Patel,vegetarian,,dietary_random
+R-56,regular,Vegetarian-only (up to 10),4,P0524,Ivan Ahmad,vegetarian,,dietary_random
+R-56,regular,Vegetarian-only (up to 10),5,P0529,Naveen Ismail,vegetarian,,dietary_random
+R-56,regular,Vegetarian-only (up to 10),6,P0535,Tanvi D Souza,vegetarian,,dietary_random
+R-56,regular,Vegetarian-only (up to 10),7,P0555,Darren Wong,vegetarian,,dietary_random
+R-56,regular,Vegetarian-only (up to 10),8,P0542,Aisha Das,vegetarian,,dietary_random
+R-56,regular,Vegetarian-only (up to 10),9,P0549,Benjamin Aziz,vegetarian,,dietary_random
+H-01,halal,Halal non-vegetarian (up to 10),1,P0560,Eileen Goh,non_vegetarian,HALAL_EAST,requested_group
+H-01,halal,Halal non-vegetarian (up to 10),2,P0558,Dev Yusof,non_vegetarian,HALAL_EAST,requested_group
+H-01,halal,Halal non-vegetarian (up to 10),3,P0561,Elaine Singh,non_vegetarian,HALAL_EAST,requested_group
+H-01,halal,Halal non-vegetarian (up to 10),4,P0562,Ethan Reddy,non_vegetarian,HALAL_EAST,requested_group
+H-01,halal,Halal non-vegetarian (up to 10),5,P0557,Derrick Sharma,non_vegetarian,HALAL_EAST,requested_group
+H-01,halal,Halal non-vegetarian (up to 10),6,P0556,Deepak Kumar,non_vegetarian,HALAL_EAST,requested_group
+H-01,halal,Halal non-vegetarian (up to 10),7,P0559,Dinesh Taylor,non_vegetarian,HALAL_EAST,requested_group
+H-01,halal,Halal non-vegetarian (up to 10),8,P0573,Jia Hui Pereira,non_vegetarian,HALAL_EAST_SUPPORT,requested_group
+H-01,halal,Halal non-vegetarian (up to 10),9,P0574,Jonathan Wong,non_vegetarian,HALAL_EAST_SUPPORT,requested_group
+H-01,halal,Halal non-vegetarian (up to 10),10,P0575,Karthik Teo,non_vegetarian,HALAL_EAST_SUPPORT,requested_group
+H-02,halal,Halal non-vegetarian (up to 10),1,P0567,Grace Ahmad,non_vegetarian,HALAL_NORTH,requested_group
+H-02,halal,Halal non-vegetarian (up to 10),2,P0565,Felix Chua,non_vegetarian,HALAL_NORTH,requested_group
+H-02,halal,Halal non-vegetarian (up to 10),3,P0568,Harish Aziz,non_vegetarian,HALAL_NORTH,requested_group
+H-02,halal,Halal non-vegetarian (up to 10),4,P0563,Farah Mohamed,non_vegetarian,HALAL_NORTH,requested_group
+H-02,halal,Halal non-vegetarian (up to 10),5,P0566,Gavin Roy,non_vegetarian,HALAL_NORTH,requested_group
+H-02,halal,Halal non-vegetarian (up to 10),6,P0564,Farid Chan,non_vegetarian,HALAL_NORTH,requested_group
+H-02,halal,Halal non-vegetarian (up to 10),7,P0570,Ibrahim Koh,non_vegetarian,HALAL_NORTH_SUPPORT,requested_group
+H-02,halal,Halal non-vegetarian (up to 10),8,P0572,Jasmine Ismail,non_vegetarian,HALAL_NORTH_SUPPORT,requested_group
+H-02,halal,Halal non-vegetarian (up to 10),9,P0569,Hazel Tan,non_vegetarian,HALAL_NORTH_SUPPORT,requested_group
+H-02,halal,Halal non-vegetarian (up to 10),10,P0571,Irene Iyer,non_vegetarian,HALAL_NORTH_SUPPORT,requested_group
